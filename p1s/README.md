@@ -2,3 +2,5 @@
 ![/p1s/0030.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0030.png)
 ![/p1s/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0029.png)
 ![/p1s/0031.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0031.png)
+
+![/p1s/0032.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0032.png)
