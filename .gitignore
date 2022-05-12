@@ -1,5 +1,9 @@
+# image generator
+/raidboardapp
+/renderdata
+# readme generator files
+# run on dotnet 6.0 : `dotnet run`
 /[Oo]bj
 /[Bb]in
-/RaidBlackBoard
 /gen.cs
 /Asphodelos.csproj
