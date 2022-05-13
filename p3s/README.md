@@ -3,7 +3,7 @@
 - [마의 전당 판데모니움 변옥편 2층](https://github.com/Gangaemonium/Asphodelos/tree/main/p2s/README.md)
 - __마의 전당 판데모니움 변옥편 3층__
 - [마의 전당 판데모니움 변옥편 4층 전반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_I/README.md) 
-- [마의 전당 판데모니움 변옥편 4층 후반](https://github.com/Gangaemonium/Asphodelos/tree/main/p5s_II/README.md)
+- [마의 전당 판데모니움 변옥편 4층 후반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_II/README.md)
 --------
 ## 폭풍 + 어둠의 겁화천초
 ![/p3s/000.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/000.png)
