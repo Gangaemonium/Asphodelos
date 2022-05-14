@@ -36,3 +36,6 @@
 ![/p3s/0021.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0021.png)
 ## 영혼샘의 불꽃 - 호보라라식 IV
 ![/p3s/0022.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0022.png)
+![/p3s/0045.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0045.png)
+![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
+![/p3s/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0047.png)
