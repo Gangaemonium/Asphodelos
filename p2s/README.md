@@ -16,3 +16,5 @@
 ![/p2s/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0035.png)
 ![/p2s/0036.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0036.png)
 ![/p2s/0037.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0037.png)
+![/p2s/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0053.png)
+![/p2s/0054.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0054.png)
