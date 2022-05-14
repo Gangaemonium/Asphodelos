@@ -7,3 +7,5 @@
 /[Bb]in
 /gen.cs
 /Asphodelos.csproj
+# timeline data (*temporally blocked)
+/timeline
