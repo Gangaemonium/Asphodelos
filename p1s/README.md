@@ -56,20 +56,29 @@
 - 변옥 이송
     - 전멸기
 
+## 기본 산개
 ![/p1s/0030.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0030.png)
+## 결주의 마쇄 처리
 ![/p1s/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0029.png)
+## 결주의 사연마쇄 처리
 ![/p1s/0031.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0031.png)
+## 징벌연격: 염
 ![/p1s/0032.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0032.png)
+## 징벌연격: 성
 ![/p1s/0033.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0033.png)
-![/p1s/0039.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0039.png)
+## 광염감옥
 ![/p1s/0040.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0040.png)
+## 시한의 마쇄
+![/p1s/0039.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0039.png)
+## 광염감옥 + 결주의 마쇄
 ![/p1s/0041.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0041.png)
+## 얼음과 불의 침식 타입A
 ![/p1s/0042.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0042.png)
 > MT는 이동하지 않는다.
-
+## 얼음과 불의 침식 타입B - 아래서부터
 ![/p1s/0043.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0043.png)
 > D3는 자기 자리에서 `얼음`을 부여받고 자리를 이동하면<br>다음 속성은 자연스럽게 `불→얼음`이 되므로 그대로 있으면 된다.
-
+## 얼음과 불의 침식 타입B - 위에서부터
 ![/p1s/0044.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0044.png)
 > MT는 위에서부터 `얼음→불` 이므로 두번째 속성 처리 후<br>D3 자리에 가게 되면 `얼음`속성을 부여받게 된다.<br>
 > D3은 속성 부여 후 ST자리로 이동하여 반대 속성을 부여받고 MT자리로 이동한다.
