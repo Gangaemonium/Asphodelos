@@ -4,8 +4,12 @@
 - [마의 전당 판데모니움 변옥편 3층](https://github.com/Gangaemonium/Asphodelos/tree/main/p3s/README.md)
 - [마의 전당 판데모니움 변옥편 4층 전반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_I/README.md) 
 - [마의 전당 판데모니움 변옥편 4층 후반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_II/README.md)
+
 --------
 
+※ 공팟의 경우 징 색상끼리 교대 처리를 하게 되므로 각 파티의 징 위치를 정확히 확인하고 조율하기 바람.
+
+--------
 - 통격
     - 적개심 1위에게 물리 강공격, 탱커가 생존기 처리
 - 마쇄난류
@@ -61,5 +65,11 @@
 ![/p1s/0040.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0040.png)
 ![/p1s/0041.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0041.png)
 ![/p1s/0042.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0042.png)
+> MT는 이동하지 않는다.
+
 ![/p1s/0043.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0043.png)
+> D3는 자기 자리에서 `얼음`을 부여받고 자리를 이동하면<br>다음 속성은 자연스럽게 `불→얼음`이 되므로 그대로 있으면 된다.
+
 ![/p1s/0044.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0044.png)
+> MT는 위에서부터 `얼음→불` 이므로 두번째 속성 처리 후<br>D3 자리에 가게 되면 `얼음`속성을 부여받게 된다.<br>
+> D3은 속성 부여 후 ST자리로 이동하여 반대 속성을 부여받고 MT자리로 이동한다.
