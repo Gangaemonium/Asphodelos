@@ -6,4 +6,4 @@
 - __마의 전당 판데모니움 변옥편 4층 후반__
 --------
 
---------
+--------![/p4s_II/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/0011.png)

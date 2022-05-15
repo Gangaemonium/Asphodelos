@@ -12,3 +12,6 @@
 ![/p4s_I/0056.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0056.png)
 ![/p4s_I/0057.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0057.png)
 ![/p4s_I/0058.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0058.png)
+![/p4s_I/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0059.png)
+![/p4s_I/0060.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0060.png)
+![/p4s_I/0061.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0061.png)
