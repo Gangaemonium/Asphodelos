@@ -12,6 +12,9 @@
 ![/p4s_I/0056.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0056.png)
 ![/p4s_I/0057.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0057.png)
 ![/p4s_I/0058.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0058.png)
+> 모두 딜러조가 받은 경우 반대로 처리하면 된다.
+
 ![/p4s_I/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0059.png)
 ![/p4s_I/0060.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0060.png)
 ![/p4s_I/0061.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0061.png)
+> 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리하면 된다.
