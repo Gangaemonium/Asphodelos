@@ -2,12 +2,19 @@
 # raidboardapp repo in raid_tmp/app/index.editorbeta_enhance.html
 # renderdata in raid_tmp/app/renderdata
 /raidboardapp
-/renderdata
+# renderer webapp bender
+# check submodule
+/echosoflight
+# renderer client solution folder
+# check submodule
+/raidtool
 # readme generator files
 # run on dotnet 6.0 : `dotnet run`
 /[Oo]bj
 /[Bb]in
-/gen.cs
+/.vs
+/.vscode
 /Asphodelos.csproj
-# timeline data (*temporally blocked)
-/timeline
+/gen.cs
+# distribute
+/dist

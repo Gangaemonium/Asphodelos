@@ -40,3 +40,5 @@
 ![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
 ![/p3s/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0047.png)
 ![/p3s/0064.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0064.png)
+![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
+![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
