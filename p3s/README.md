@@ -12,7 +12,7 @@
 ## 변옥의 암염선풍 처리
 ![/p3s/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0067.png)
 ## 폭풍 + 어둠의 겁화천초
-![/p3s/000.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/000.png)
+![/p3s/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0068.png)
 ## 폭풍 + 어둠의 겁화천초 이후 산개
 ![/p3s/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/001.png)
 ![/p3s/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/002.png)
@@ -44,3 +44,4 @@
 ![/p3s/0064.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0064.png)
 ![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
+
