@@ -9,6 +9,8 @@
 --------
 ![/p3s/003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/003.png)
 ![/p3s/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/004.png)
+## 변옥의 암염선풍 처리
+![/p3s/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0067.png)
 ## 폭풍 + 어둠의 겁화천초
 ![/p3s/000.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/000.png)
 ## 폭풍 + 어둠의 겁화천초 이후 산개
