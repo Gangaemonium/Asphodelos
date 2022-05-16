@@ -65,4 +65,4 @@
 ||右翼焼却|Right Cinderwing|오른쪽 날개 소각||보스 기준 절반 공격|
 |10:36|灰燼の炎|Scorched Exaltation|회신의 불꽃||광딜|
 |10:43|灰燼の炎|Scorched Exaltation|회신의 불꽃||광딜|
-|10:55|灰燼の豪炎|Final Exaltation|회귀의 호염||전멸기|
+|10:55|灰燼の豪炎|Final Exaltation|회신의 호염||전멸기|
