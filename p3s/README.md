@@ -50,9 +50,10 @@
 ![/p3s/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0017.png)
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
 ![/p3s/0018.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0018.png)
+## 영혼샘의 불꽃 처리 (힐러 동선)
 ![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
+## 영혼샘의 불꽃 처리 (힐러 위치)
 ![/p3s/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0047.png)
-![/p3s/0064.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0064.png)
 ![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
 
