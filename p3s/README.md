@@ -57,3 +57,11 @@
 ![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
 
+
+![/p3s/0072.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0072.png)
+
+![/p3s/0073.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0073.png)
+
+![/p3s/0074.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0074.png)
+
+![/p3s/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0075.png)
