@@ -7,9 +7,12 @@
 
 --------
 
+### [전체 타임라인](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p1s.md)
+
 ※ 공팟의 경우 징 색상끼리 교대 처리를 하게 되므로 각 파티의 징 위치를 정확히 확인하고 조율하기 바람.
 
 --------
+
 - 통격
     - 적개심 1위에게 물리 강공격, 탱커가 생존기 처리
 - 마쇄난류
@@ -44,7 +47,7 @@
     - 징벌격 발동
     - 세 번째 크리스탈 발동 (외곽 8지역 산개)
     - **징벌격 2번째 공격과 세 번째 크리스탈 발동 간의 간격이 짧으므로 자기 산개 자리 근처에서 징벌격을 회피해야 함**
-- 광염감옥
+- [광염감옥](#광염감옥)
     - 아픈 마법 광역 공격과 함께 맵 변환
 - 징벌 폭쇄
     - 보스 주변에 불 또는 빛 구체가 돌아다니며 동시에 징벌격(`갈고리 + 철퇴/차크람`) 시전
@@ -66,12 +69,6 @@
 ![/p1s/0032.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0032.png)
 ## 징벌연격: 성
 ![/p1s/0033.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0033.png)
-## 광염감옥
-![/p1s/0040.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0040.png)
-## 시한의 마쇄
-![/p1s/0039.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0039.png)
-## 광염감옥 + 결주의 마쇄
-![/p1s/0041.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0041.png)
 ## 얼음과 불의 침식 타입A
 ![/p1s/0042.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0042.png)
 > MT는 이동하지 않는다.
@@ -82,3 +79,9 @@
 ![/p1s/0044.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0044.png)
 > MT는 위에서부터 `얼음→불` 이므로 두번째 속성 처리 후<br>D3 자리에 가게 되면 `얼음`속성을 부여받게 된다.<br>
 > D3은 속성 부여 후 ST자리로 이동하여 반대 속성을 부여받고 MT자리로 이동한다.
+## 광염감옥
+![/p1s/0040.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0040.png)
+## 시한의 마쇄
+![/p1s/0039.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0039.png)
+## 광염감옥 + 결주의 마쇄
+![/p1s/0041.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0041.png)
