@@ -63,10 +63,16 @@
 ![/p1s/0030.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0030.png)
 ## 징벌격 범위 (좌우)
 ![/p1s/0069.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0069.png)
+> 공격은 보스 기준이므로 탱커의 주차가 중요<br>머리가 돌아가면 좌우 기준도 돌아가므로 꼭 확인할것
+
 ## 징벌격 범위 (안전지대 내부)
 ![/p1s/0070.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0070.png)
+> 공격은 보스 기준이므로 탱커의 주차가 중요
+
 ## 징벌격 범위 (안전지대 외부)
 ![/p1s/0071.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0071.png)
+> 공격은 보스 기준이므로 탱커의 주차가 중요
+
 ## 결주의 마쇄 처리
 ![/p1s/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0029.png)
 ## 결주의 사연마쇄 처리
