@@ -45,7 +45,7 @@
 |4:20|J: 反魂の炎<br>E: Flames of Undeath<br>번역: 반혼의 불꽃<br>한: |기믹 처리 성공여부 체크, 보스 타겟 가능|
 |4:42|J: 黒き不死鳥<br>E: Dead Rebirth<br>번역: 검은 불사조<br>한: |광딜|
 |4:57|J: 獄炎の炎撃<br>E: Heat of Condemnation<br>번역: 옥염의 염격<br>한: |탱버|
-|5:09|J: 群鳥飛翔<br>E: Fledgling Flight<br>번역: 새들의 비상<br>한: |랜덤 4명이 부채꼴 장판 유도|
+|5:09|J: 群鳥飛翔<br>E: Fledgling Flight<br>번역: 새들의 비상<br>한: |랜덤 4명(탱+힐 조/딜 조)이 부채꼴 장판 유도|
 |5:34|J: 魔力錬成：炎闇劫火<br>E: Experimental Gloryplume<br>번역: 마력연성: 염화천초<br>한: |채리엇 or 조준 이후<br> 4/4 쉐어 or 전원 개인장판|
 |5:48|J: 炎闇劫火<br>E: Gloryplume<br>번역: 염화천초<br>한: |4/4 쉐어 or 전원 개인장판|
 |6:06|J: 霊泉の炎<br>E: Fountain of Fire<br>번역: 영혼샘의 불꽃<br>한: |필드 외곽에 장판 2개씩 4번 생성|

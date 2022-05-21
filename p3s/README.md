@@ -26,6 +26,8 @@
 ![/p3s/0014.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0014.png)
 ## 쫄페이즈 줄 처리
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
+## 새들의 비상 처리
+![/p3s/0076.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0076.png)
 ## 영혼샘의 불꽃 처리 (힐러 동선)
 ![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
 ## 영혼샘의 불꽃 처리 (힐러 위치)
@@ -63,3 +65,5 @@
 ![/p3s/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/001.png)
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱원/힐근 구성)
 ![/p3s/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/002.png)
+## 죽음의 운명 + 새들의 비상 처리
+![/p3s/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0077.png)
