@@ -36,6 +36,15 @@
 ![/p3s/0021.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0021.png)
 ## 영혼샘의 불꽃 - 호보라라식 IV
 ![/p3s/0022.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0022.png)
+## 영혼샘의 불꽃 - 해피아저식 I
+![/p3s/0072.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0072.png)
+## 영혼샘의 불꽃 - 해피아저식 II
+![/p3s/0073.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0073.png)
+## 영혼샘의 불꽃 - 해피아저식 III
+![/p3s/0074.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0074.png)
+## 영혼샘의 불꽃 - 해피아저식 IV
+![/p3s/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0075.png)
+> 이후 나머지 근딜,원딜조도 동일하게 처리
 ## 돌진 산개도 - 산개
 ![/p3s/0012.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0012.png)
 ## 돌진 산개도 - 쉐어
@@ -56,12 +65,3 @@
 ![/p3s/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0047.png)
 ![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
-
-
-![/p3s/0072.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0072.png)
-
-![/p3s/0073.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0073.png)
-
-![/p3s/0074.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0074.png)
-
-![/p3s/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0075.png)
