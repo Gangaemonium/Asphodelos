@@ -18,6 +18,12 @@
 ![/p3s/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/004.png)
 ## 어둠의 불꽃 산개
 ![/p3s/0045.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0045.png)
+## 돌진 산개도 - 산개
+![/p3s/0012.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0012.png)
+## 돌진 산개도 - 쉐어
+![/p3s/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0013.png)
+## 돌진 산개도 - 쉐어 근접 산개법
+![/p3s/0014.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0014.png)
 ## 쫄페이즈 줄 처리
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
 ## 영혼샘의 불꽃 처리 (힐러 동선)
@@ -41,12 +47,6 @@
 ## 영혼샘의 불꽃 - 해피아저식 IV
 ![/p3s/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0075.png)
 > 이후 나머지 근딜,원딜조도 동일하게 처리
-## 돌진 산개도 - 산개
-![/p3s/0012.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0012.png)
-## 돌진 산개도 - 쉐어
-![/p3s/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0013.png)
-## 돌진 산개도 - 쉐어 근접 산개법
-![/p3s/0014.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0014.png)
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0015.png)
 ## 변옥의 폭풍 무적 처리 - 탱커 최대 활용 공대식
