@@ -61,6 +61,12 @@
 
 ## 기본 산개
 ![/p1s/0030.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0030.png)
+## 징벌격 범위 (좌우)
+![/p1s/0069.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0069.png)
+## 징벌격 범위 (안전지대 내부)
+![/p1s/0070.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0070.png)
+## 징벌격 범위 (안전지대 외부)
+![/p1s/0071.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0071.png)
 ## 결주의 마쇄 처리
 ![/p1s/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/0029.png)
 ## 결주의 사연마쇄 처리
