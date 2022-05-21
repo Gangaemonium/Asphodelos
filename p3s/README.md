@@ -16,14 +16,18 @@
 ![/p3s/003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/003.png)
 ## 마력연성: 겁화천초 (큰 구슬)
 ![/p3s/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/004.png)
+## 십자주화 처리 (작은 구슬)
+## 십자주화 처리 (큰 구슬)
 ## 어둠의 불꽃 산개
 ![/p3s/0045.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0045.png)
+## 어둠의 불꽃 주사위 처리
 ## 돌진 산개도 - 산개
 ![/p3s/0012.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0012.png)
 ## 돌진 산개도 - 쉐어
 ![/p3s/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0013.png)
 ## 돌진 산개도 - 쉐어 근접 산개법
 ![/p3s/0014.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0014.png)
+## 쫄페이즈 시작 (작은 쫄)
 ## 쫄페이즈 줄 처리
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
 ## 새들의 비상 처리
@@ -48,7 +52,7 @@
 ![/p3s/0074.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0074.png)
 ## 영혼샘의 불꽃 - 해피아저식 IV
 ![/p3s/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0075.png)
-> 이후 나머지 근딜,원딜조도 동일하게 처리
+> 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0015.png)
 ## 변옥의 폭풍 무적 처리 - 탱커 최대 활용 공대식

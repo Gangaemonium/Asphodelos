@@ -10,17 +10,27 @@
 
 --------
 
-![/p4s_I/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0009.png)
-![/p4s_I/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0010.png)
+## 전염 처리 (YPP식) 모두 같은 조 I
 ![/p4s_I/0056.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0056.png)
+## 전염 처리 (YPP식) 모두 같은 조 II
 ![/p4s_I/0057.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0057.png)
+## 전염 처리 (YPP식) 모두 같은 조 III
 ![/p4s_I/0058.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0058.png)
 > 모두 딜러조가 받은 경우 반대로 처리하면 된다.
 
+## 전염 처리 (YPP식) 서로 다른 조 I
 ![/p4s_I/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0059.png)
+## 전염 처리 (YPP식) 서로 다른 조 II
 ![/p4s_I/0060.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0060.png)
+## 전염 처리 (YPP식) 서로 다른 조 III
 ![/p4s_I/0061.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0061.png)
 > 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리하면 된다.
 
+## 강화된 벨로네: 원형 처리 - 공대식 (딜러 금지 기둥)
+![/p4s_I/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0009.png)
+## 강화된 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
+![/p4s_I/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0010.png)
+## 극장창조 개요
 ![/p4s_I/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0062.png)
+## 극장창조 주차
 ![/p4s_I/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0063.png)
