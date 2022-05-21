@@ -10,24 +10,20 @@
 
 --------
 
+## 옥염의 염격
+![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
 ## 마력연성: 겁화천초 (작은 구슬)
 ![/p3s/003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/003.png)
 ## 마력연성: 겁화천초 (큰 구슬)
 ![/p3s/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/004.png)
 ## 어둠의 불꽃 산개
 ![/p3s/0045.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0045.png)
-## 변옥의 암염선풍 처리
-![/p3s/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0067.png)
-## 폭풍 + 어둠의 겁화천초
-![/p3s/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0068.png)
-## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
-![/p3s/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/001.png)
-## 폭풍 어둠의 겁화천초 이후 산개 (탱원/힐근 구성)
-![/p3s/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/002.png)
-## 마력연성: 겁화천초 (큰 구슬)
-![/p3s/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0010.png)
-## 마력연성: 겁화천초 (작은 구슬)
-![/p3s/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0011.png)
+## 쫄페이즈 줄 처리
+![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
+## 영혼샘의 불꽃 처리 (힐러 동선)
+![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
+## 영혼샘의 불꽃 처리 (힐러 위치)
+![/p3s/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0047.png)
 ## 영혼샘의 불꽃 - 호보라라식 I
 ![/p3s/0019.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0019.png)
 ## 영혼샘의 불꽃 - 호보라라식 II
@@ -59,9 +55,11 @@
 ![/p3s/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0017.png)
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
 ![/p3s/0018.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0018.png)
-## 영혼샘의 불꽃 처리 (힐러 동선)
-![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
-## 영혼샘의 불꽃 처리 (힐러 위치)
-![/p3s/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0047.png)
-![/p3s/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0065.png)
-![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
+## 변옥의 암염선풍 처리
+![/p3s/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0067.png)
+## 폭풍 + 어둠의 겁화천초
+![/p3s/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0068.png)
+## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
+![/p3s/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/001.png)
+## 폭풍 어둠의 겁화천초 이후 산개 (탱원/힐근 구성)
+![/p3s/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/002.png)
