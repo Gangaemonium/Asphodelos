@@ -26,11 +26,19 @@
 ![/p4s_I/0061.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0061.png)
 > 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리하면 된다.
 
-## 강화된 벨로네: 원형 처리 - 공대식 (딜러 금지 기둥)
-![/p4s_I/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0009.png)
-## 강화된 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
-![/p4s_I/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0010.png)
+## 첫 우아한 파열 (엘레강스 에비서레이션) 처리
+
 ## 극장창조 개요
 ![/p4s_I/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0062.png)
 ## 극장창조 주차
 ![/p4s_I/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0063.png)
+## 피낙스 (번개 - 거리감쇠)
+## 피낙스 (산 - 산개)
+## 피낙스 (물 - 넉백)
+## 피낙스 (용암 - 쉐어)
+## 변위 타격
+
+## 강화된 벨로네: 원형 처리 - 공대식 (딜러 금지 기둥)
+![/p4s_I/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0009.png)
+## 강화된 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
+![/p4s_I/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/0010.png)

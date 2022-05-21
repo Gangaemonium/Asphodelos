@@ -27,11 +27,13 @@
 ![/p3s/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0013.png)
 ## 돌진 산개도 - 쉐어 근접 산개법
 ![/p3s/0014.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0014.png)
-## 쫄페이즈 시작 (작은 쫄)
 ## 쫄페이즈 줄 처리
 ![/p3s/0066.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0066.png)
+> 줄이 2개 연결된 대상자는 1회 돌진 후 살짝 뒤로 빠져야 한다<br>옆으로 빠져도 되나 뒤로 빠지는 것이 효율적이다.
 ## 새들의 비상 처리
 ![/p3s/0076.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0076.png)
+## 어둠의 겁화천초 (작은 구슬+작은 구슬) 처리
+## 어둠의 겁화천초 (작은 구슬+큰 구슬) 처리
 ## 영혼샘의 불꽃 처리 (힐러 동선)
 ![/p3s/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0046.png)
 ## 영혼샘의 불꽃 처리 (힐러 위치)
@@ -55,8 +57,9 @@
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0015.png)
-## 변옥의 폭풍 무적 처리 - 탱커 최대 활용 공대식
+## 변옥의 폭풍 무적 처리 - 탱커 최대 활용
 ![/p3s/0016.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0016.png)
+> 탱커 최대 활용 - 시트를 작성한 공대에서 채용한 방식입니다.<br>파티원 전원이 모이게 되므로 자신이 처리할 기믹을 숙지하지 않아도 되는 장점이 있습니다.
 ## 변옥의 폭풍 정규 처리 - 누케마루식
 ![/p3s/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0017.png)
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
@@ -71,3 +74,5 @@
 ![/p3s/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/002.png)
 ## 죽음의 운명 + 새들의 비상 처리
 ![/p3s/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/0077.png)
+## 어둠의 겁화천초 (큰 구슬+작은 구슬) 처리
+## 어둠의 겁화천초 (큰 구슬+큰 구슬) 처리
