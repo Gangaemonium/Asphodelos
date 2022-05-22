@@ -83,6 +83,7 @@
     - **13초 디버프 처리 후 통합 발동까지 시간이 짧으므로 빠르게 본진 복귀 후 회복받고 통합을 처리해야함**
 
 ## 영수탄
+![/p2s/images/0082.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0082.png)
 ## 다중 낙인 처리
 ![/p2s/images/0055.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0055.png)
 ## 대폭포 날갯짓 (윙 카타락티스)
