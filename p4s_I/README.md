@@ -38,6 +38,5 @@
 ![/p4s_I/images/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0009.png)
 ## 강화된 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
 ![/p4s_I/images/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0010.png)
-## 강화된 벨로네: 폭발 처리 (정규 처리)
 ## 강화된 벨로네: 폭발 처리 (뇌사식)
 ![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
