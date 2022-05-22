@@ -14,7 +14,7 @@
 ## 가시의 비극: 제 2막 (정규)
 ## 가시의 비극: 제 2막 (근딜 배려)
 ## 가시의 비극: 제 3막 - 공대식
-![/p4s_II/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/0011.png)
+![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 ## 가시의 비극: 제 3막 - 제노식
 ## 가시의 비극: 제 4막
 ## 가시의 비극: 종막

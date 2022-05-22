@@ -11,30 +11,32 @@
 --------
 ## 영수탄
 ## 다중 낙인 처리
-![/p2s/0055.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0055.png)
+![/p2s/images/0055.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0055.png)
 ## 대폭포 날갯짓 (윙 카타락티스)
-![/p2s/0049.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0049.png)
+![/p2s/images/0049.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0049.png)
 ## 대폭포 분사 (브레스 카타락티스)
-![/p2s/0050.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0050.png)
+![/p2s/images/0050.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0050.png)
 ## 대폭포 분사/날갯짓 (브레스/윙) 몸통 공격
-![/p2s/0051.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0051.png)
+![/p2s/images/0051.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0051.png)
 ## 대폭포 분사 (브레스 카타락티스) 예시
-![/p2s/0052.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0052.png)
+![/p2s/images/0052.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0052.png)
 ## 전달되는 흐름 (채널링 플로우) 처리
-![/p2s/0025.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0025.png)
+![/p2s/images/0025.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0025.png)
 ## 첫번째 전달되는 범람 (채널링 오버플로우) 처리
-![/p2s/0036.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0036.png)
+![/p2s/images/0036.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0036.png)
 ## 캄페오스 할마 (주사위) 처리
-![/p2s/0037.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0037.png)
+![/p2s/images/0037.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0037.png)
 ## 두번째 전달되는 범람 (채널링 오버플로우) 처리 I
-![/p2s/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0035.png)
-> 탱커가 줄을 채 갈 수 있도록 모여 있다가 기믹을 처리한다.
+![/p2s/images/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0035.png)
+> 탱커가 줄을 채 갈 수 있도록 모여 있는다.
+## 두번째 전달되는 범람 (채널링 오버플로우) 처리 II
+> 탱커가 줄을 채갔다면 자신이 이동해야 하는 방향으로 이동한다.
 ## 두번째 전달되는 범람 (채널링 오버플로우) 처리 III
-![/p2s/0034.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0034.png)
-> 브레스를 처리한 뒤 넉백을 처리한다
+![/p2s/images/0034.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0034.png)
+> 13초 넉백 인원은 본진으로 다시 모여 브레스를 처리,<br>그 뒤 27초 인원은 넉백을 처리한다
 ## 분리 (디소시에이션)
-![/p2s/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0053.png)
-## 오수 분출 처리 I
+![/p2s/images/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0053.png)
+## 오수 분출 처리
 ## 분리+분사+다중 낙인 (디소시에이션+브레스)
-![/p2s/0054.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/0054.png)
-## 오수 분출 처리 II
+![/p2s/images/0054.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0054.png)
+## 분리 + 오수 분출 처리
