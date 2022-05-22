@@ -17,5 +17,10 @@
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 ## 가시의 비극: 제 3막 - 제노식
 ## 가시의 비극: 제 4막
-## 가시의 비극: 종막
+## 가시의 비극: 종막 - 산개 I
+![/p4s_II/images/0080.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0080.png)
+## 가시의 비극: 종막 - 산개 II
+![/p4s_II/images/0081.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0081.png)
 ## 가시의 비극: 커튼 콜
+## 가시의 비극: 커튼 콜 - 장판
+![/p4s_II/images/0079.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0079.png)
