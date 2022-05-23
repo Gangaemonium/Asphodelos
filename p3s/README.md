@@ -52,7 +52,7 @@
 ![/p3s/images/0022.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0022.png)
 > 공대에서 채용한 방법
 >
-> 해피아저(ハピおじ)식에 비해 자리 고정형 처리법이므로<br>외곽을 돌고있는 힐러를 향해 새를 발사하는게 아니라면 훨씬 보기 쉽다.
+> 해피아저(ハピおじ)식과 비교했을 때 자리가 고정된 처리법이므로<br>외곽을 돌고있는 힐러를 향해 새를 발사하는게 아니라면 훨씬 처리하기 쉽다.
 ## 영혼샘의 불꽃 - 해피아저식 I
 ![/p3s/images/0072.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0072.png)
 ## 영혼샘의 불꽃 - 해피아저식 II
@@ -66,7 +66,11 @@
 ![/p3s/images/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0015.png)
 ## 변옥의 폭풍 무적 처리 - 탱커 최대 활용
 ![/p3s/images/0016.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0016.png)
-> 탱커 최대 활용 - 시트를 작성한 공대에서 채용한 방식입니다.<br>파티원 전원이 모이게 되므로 자신이 처리할 기믹을 숙지하지 않아도 되는 장점이 있습니다.
+> 공대에서 채용한 방법
+>
+> 파티원 전원이 모이게 되므로 탱커 이외에 자신이 처리할 기믹을 별도로 숙지하지 않아도 되는 장점이 있습니다.<br>다만, 정규 처리 방법도 숙지하는 것이 좋습니다.
+>
+> tuufless식에 비해 힐업이 용이하다는 장점이 있습니다.<br>단점은 사고가 발생하면 처음부터 다시 시작해야 한다는 문제가 있습니다.
 ## 변옥의 폭풍 정규 처리 - 누케마루식
 ![/p3s/images/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0017.png)
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
@@ -82,4 +86,7 @@
 ## 죽음의 운명 + 새들의 비상 처리
 ![/p3s/images/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0077.png)
 ## 어둠의 겁화천초 (큰 구슬+작은 구슬) 처리
+![/p3s/images/0088.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0088.png)
+> 한대 더 치려다가 사고 나므로 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
 ## 어둠의 겁화천초 (큰 구슬+큰 구슬) 처리
+![/p3s/images/0089.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0089.png)
