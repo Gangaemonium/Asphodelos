@@ -33,7 +33,11 @@
 ## 새들의 비상 처리
 ![/p3s/images/0076.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0076.png)
 ## 어둠의 겁화천초 (작은 구슬+작은 구슬) 처리
+![/p3s/images/0087.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0087.png)
+> 개인 장판이 착탄하기까지 충분히 여유가 있으므로 적정 거리만큼 산개할 것
 ## 어둠의 겁화천초 (작은 구슬+큰 구슬) 처리
+![/p3s/images/0086.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0086.png)
+> 적당히 안전지대에 도착했다면 쉐어 처리를 위해 멈춘다
 ## 영혼샘의 불꽃 처리 (힐러 동선)
 ![/p3s/images/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0046.png)
 ## 영혼샘의 불꽃 처리 (힐러 위치)
