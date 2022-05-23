@@ -104,13 +104,16 @@
 ![/p2s/images/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0035.png)
 > 탱커가 줄을 채 갈 수 있도록 모여 있는다.
 ## 두번째 전달되는 범람 (채널링 오버플로우) 처리 II
+![/p2s/images/0085.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0085.png)
 > 탱커가 줄을 채갔다면 자신이 이동해야 하는 방향으로 이동한다.
 ## 두번째 전달되는 범람 (채널링 오버플로우) 처리 III
 ![/p2s/images/0034.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0034.png)
 > 13초 넉백 인원은 본진으로 다시 모여 브레스를 처리,<br>그 뒤 27초 인원은 넉백을 처리한다
 ## 분리 (디소시에이션)
 ![/p2s/images/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0053.png)
-## 오수 분출 처리
+## 분리+오수 분출 처리 I
+![/p2s/images/0083.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0083.png)
 ## 분리+분사+다중 낙인 (디소시에이션+브레스)
 ![/p2s/images/0054.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0054.png)
-## 분리 + 오수 분출 처리
+## 분리+오수 분출 처리 II
+![/p2s/images/0084.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0084.png)
