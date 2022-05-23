@@ -17,7 +17,10 @@
 ## 마력연성: 겁화천초 (큰 구슬)
 ![/p3s/images/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/004.png)
 ## 십자주화 처리 (작은 구슬)
+![/p3s/images/0090.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0090.png)
+> 작은 구슬의 경우 북쪽 방향으로 처음 떨어지는 구슬 쪽으로 이동한다.<br>그 후 시계방향으로 이동, 한곳에 모여 이럽션을 처리한다.
 ## 십자주화 처리 (큰 구슬)
+![/p3s/images/0091.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0091.png)
 ## 어둠의 불꽃 산개
 ![/p3s/images/0045.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0045.png)
 ## 어둠의 불꽃 주사위 처리
