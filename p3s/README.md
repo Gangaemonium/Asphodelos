@@ -87,6 +87,9 @@
 ![/p3s/images/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0077.png)
 ## 어둠의 겁화천초 (큰 구슬+작은 구슬) 처리
 ![/p3s/images/0088.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0088.png)
-> 한대 더 치려다가 사고 나므로 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
+> 한대 더 치려다가 사고 나므로 안전하게 처리
+>
+> 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
 ## 어둠의 겁화천초 (큰 구슬+큰 구슬) 처리
 ![/p3s/images/0089.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0089.png)
+> 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
