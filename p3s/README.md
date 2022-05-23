@@ -68,9 +68,9 @@
 ![/p3s/images/0016.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0016.png)
 > 공대에서 채용한 방법
 >
-> 파티원 전원이 모이게 되므로 탱커 이외에 자신이 처리할 기믹을 별도로 숙지하지 않아도 되는 장점이 있습니다.<br>다만, 정규 처리 방법도 숙지하는 것이 좋습니다.
+> 파티원 전원이 모이게 되므로 탱커 이외에 자신이 처리할 기믹을 별도로 숙지하지 않아도 되는 장점이 있다.<br>다만, 정규 처리 방법도 숙지하는 것이 좋다.
 >
-> tuufless식에 비해 힐업이 용이하다는 장점이 있습니다.<br>단점은 사고가 발생하면 처음부터 다시 시작해야 한다는 문제가 있습니다.
+> tuufless식에 비해 힐업이 용이하다는 장점이 있다.<br>단점은 사고가 발생하면 처음부터 다시 시작해야 한다는 문제가 있다.
 ## 변옥의 폭풍 정규 처리 - 누케마루식
 ![/p3s/images/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0017.png)
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
