@@ -18,14 +18,23 @@
 ![/p4s_I/images/0057.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0057.png)
 ## 전염 처리 (YPP식) 모두 같은 조 III
 ![/p4s_I/images/0058.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0058.png)
-> 모두 딜러조가 받은 경우 반대로 처리하면 된다.
+> 모두 딜러조가 받은 경우 반대로 처리<br>3번 표식에서 모여 전염 처리 후 탱/힐조가 사이에서 줄을 받아 산개하는 식
+## 전염 처리 (공대식) 서로 다른 조 I
+![/p4s_I/images/0093.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0093.png)
+## 전염 처리 (공대식) 서로 다른 조 II
+![/p4s_I/images/0094.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0094.png)
+## 전염 처리 (공대식) 서로 다른 조 III
+![/p4s_I/images/0095.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0095.png)
+> 같은 조에 모두 걸린 경우는 YPP식과 동일하게 처리하나 다른 조일 경우 동선을 최소화하는 방식이다.
+>
+> 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리<br>3번 표식에서 모여 전염을 처리하고 딜러가 보스 안쪽으로 이동하여 산개하는 식
 ## 전염 처리 (YPP식) 서로 다른 조 I
 ![/p4s_I/images/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0059.png)
 ## 전염 처리 (YPP식) 서로 다른 조 II
 ![/p4s_I/images/0060.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0060.png)
 ## 전염 처리 (YPP식) 서로 다른 조 III
 ![/p4s_I/images/0061.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0061.png)
-> 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리하면 된다.
+> 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리<br>3번 표식에서 모여 전염을 처리하고 딜러가 보스 안쪽으로 이동하여 산개하는 식
 ## 극장창조 개요
 ![/p4s_I/images/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0062.png)
 ## 극장창조 주차
