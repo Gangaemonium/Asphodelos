@@ -140,7 +140,7 @@
 ![/p3s/images/0091.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0091.png)
 ## 어둠의 불꽃 산개
 ![/p3s/images/0045.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0045.png)
-## 어둠의 불꽃 주사위 처리
+## 빛의 불꽃 주사위 처리
 ![/p3s/images/0092.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0092.png)
 ## 돌진 산개도 - 산개
 ![/p3s/images/0012.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0012.png)
@@ -185,6 +185,8 @@
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 ## 변옥의 폭풍 I 산개 처리
 ![/p3s/images/p3s_soa.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/p3s_soa.gif)
+## 변옥의 폭풍 I 쉐어 처리
+![/p3s/images/p3s_soa2.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/p3s_soa2.gif)
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/images/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0015.png)
 ## 변옥의 폭풍 무적 처리 - 탱커 최대 활용
