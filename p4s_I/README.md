@@ -10,6 +10,8 @@
 
 --------
 
+# 기믹 해설
+
 ## 전염 처리 (YPP식) 모두 같은 조 I
 ![/p4s_I/images/0056.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0056.png)
 ## 전염 처리 (YPP식) 모두 같은 조 II
