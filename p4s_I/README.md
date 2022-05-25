@@ -123,6 +123,7 @@
 > 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리<br>3번 표식에서 모여 전염을 처리하고 딜러가 보스 안쪽으로 이동하여 산개하는 식
 ## 극장창조 개요
 ![/p4s_I/images/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0062.png)
+> 속성 무대 위치는 랜덤이며, 각 속성은 선더 + 독/용암 또는 물장구 + 독/용암 그룹으로 활성화된다.
 ## 극장창조 주차
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
 ## 피낙스 (선더 - 거리 반비례)
