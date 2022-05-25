@@ -56,11 +56,19 @@
     - 필드 변경(물/번개/불/산 바닥) 생성
 - 피낙스
     - 변경된 필드 중 순서대로 두 곳이 빛남
-    - `물` or `번개` &gt; `불` or `산` 순서로 시전되며, 다음 `피낙스` 발동 시 이전에 나오지 않은 기믹이 발동
-    - `물`: 넉백
-    - `번개`: 거리 반비례 대미지 (이미지 참조)
-    - `불`: 4/4 쉐어
-    - `산`: 산개
+    - `물장구` or `선더` &gt; `용암` or `독` 순서로 시전되며, 다음 `피낙스` 발동 시 이전에 나오지 않은 기믹이 발동
+    - `물장구`: 넉백
+    - `선더`: 거리 반비례 대미지 (이미지 참조)
+    - `용암`: 4/4 쉐어
+    - `독`: 산개
+- 메카네 물장구
+    - 물 무대 활성화 시 넉백 대미지
+- 메카네 선더
+    - 선더 무대 활성화 시 거리 반비례 대미지
+- 메카네 독
+    - 독 무대 활성화 시 개인 범위 대미지
+- 메카네 용암
+    - 용암 무대 활성화 시 힐러 기준 쉐어 대미지
 - 변위타격(동/서/남/북)
     - 스킬명 방향으로 이동 후 공격
     - 캐스팅 중 `검이 빛나면 부채꼴` / `망토가 빛나면 넉백`<br>
@@ -117,11 +125,11 @@
 ![/p4s_I/images/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0062.png)
 ## 극장창조 주차
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
-## 피낙스 (번개 - 거리 반비례)
+## 피낙스 (선더 - 거리 반비례)
 ![/p4s_I/images/0096.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0096.png)
-## 피낙스 (산 - 개인 범위 공격)
+## 피낙스 (독 - 개인 범위 공격)
 ![/p4s_I/images/0097.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0097.png)
-## 피낙스 (물 - 넉백)
+## 피낙스 (물장구 - 넉백)
 ## 피낙스 (용암 - 쉐어)
 ## 변위 타격 (검)
 ## 변위 타격 (망토)
