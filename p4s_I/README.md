@@ -50,7 +50,7 @@
         전염 인계 완료한 조는 6시 징 위(본진 위치)로 이동
         - 첫번째 `피의 호수` 대장자가 아니었던 조가 줄 인계한 다음 처리
 - 우아한 파열
-    - 어그로 1순위 탱커에게 강공격 2회
+    - 적개심 1위 탱커에게 강공격 2회
     - 무적기 처리 또는 탱커들이 도발하여 1회씩 처리
 - 극장 창조
     - 필드 변경(물/번개/불/산 바닥) 생성
@@ -73,7 +73,7 @@
     - `원소 저항 감소 디버프` 부여
 - 강화된 벨로네: 폭발
     - 맵 외곽에 `녹색 구`가 8개 소환되며, 각자 가까운 구와 연결됨
-    - 가지고 있는 디버프와 같은 종류의 구를 처리해야 하며, 2인 쉐어로 처리해야함
+    - 가지고 있는 디버프와 같은 종류의 구를 처리해야 하며, 2인 쉐어로 처리
     - 먼저 페어와 같이 이동하여 각각 3시, 6시, 9시, 12시에 있는 구를 터뜨림
     - 2번째 공을 터뜨리기 전 중앙으로 약간 모여서 체력 회복을 받음
     - 이후 처음 구를 터뜨린 장소에서 시계 방향으로 1칸 이동하여 구를 처리
@@ -88,7 +88,7 @@
     (줄을 인계한 대상자가 이후 반전된 클라미스 줄 처리)
     - 두번째 금지 기둥 생성<br>
     (금지 기둥 대상자가 아닐 시 약간 산개하여 전염 처리 준비) 
-    - 두번째 원형 처리 완료 후 장판에 피격된 인원들은 6시에 집합 할 것
+    - 두번째 원형 처리 완료 후 장판에 피격된 인원들은 6시에 집합
 
 ## 전염 처리 (YPP식) 모두 같은 조 I
 ![/p4s_I/images/0056.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0056.png)
@@ -117,8 +117,10 @@
 ![/p4s_I/images/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0062.png)
 ## 극장창조 주차
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
-## 피낙스 (번개 - 거리감쇠)
+## 피낙스 (번개 - 거리 반비례)
+![/p4s_I/images/0096.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0096.png)
 ## 피낙스 (산 - 산개)
+![/p4s_I/images/0097.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0097.png)
 ## 피낙스 (물 - 넉백)
 ## 피낙스 (용암 - 쉐어)
 ## 변위 타격 (검)
