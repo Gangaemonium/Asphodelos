@@ -119,7 +119,7 @@
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
 ## 피낙스 (번개 - 거리 반비례)
 ![/p4s_I/images/0096.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0096.png)
-## 피낙스 (산 - 산개)
+## 피낙스 (산 - 개인 범위 공격)
 ![/p4s_I/images/0097.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0097.png)
 ## 피낙스 (물 - 넉백)
 ## 피낙스 (용암 - 쉐어)
