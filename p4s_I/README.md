@@ -130,6 +130,7 @@
 ![/p4s_I/images/0096.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0096.png)
 ## 피낙스 (독 - 개인 범위 공격)
 ![/p4s_I/images/0097.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0097.png)
+![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
 ## 피낙스 (물장구 - 넉백)
 ## 피낙스 (용암 - 쉐어)
 ## 변위 타격 (검)
