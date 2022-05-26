@@ -124,6 +124,7 @@
 ## 피낙스 (물장구 - 넉백)
 ![/p4s_I/images/0099.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0099.png)
 ## 피낙스 (용암 - 쉐어)
+![/p4s_I/images/0102.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0102.png)
 ## 변위 타격 (세검)
 ![/p4s_I/images/0100.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0100.png)
 ## 변위 타격 (망토)

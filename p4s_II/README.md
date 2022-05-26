@@ -101,10 +101,8 @@
 
 ## 가시의 비극: 서막
 ## 가시의 비극: 제 2막 (정규)
-## 가시의 비극: 제 2막 (근딜 배려)
 ## 가시의 비극: 제 3막 - 공대식
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
-## 가시의 비극: 제 3막 - 제노식
 ## 가시의 비극: 제 4막
 ![/p4s_II/images/p4s2_act4_info1.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info1.gif)
 ![/p4s_II/images/p4s2_act4_info2.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info2.gif)
@@ -115,3 +113,7 @@
 ## 가시의 비극: 커튼 콜
 ## 가시의 비극: 커튼 콜 - 장판
 ![/p4s_II/images/0079.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0079.png)
+
+# 가시의 비극: 제 3막 처리법
+## 가시의 비극: 제 3막 - 제노
+## 가시의 비극: 제 3막 - 시노쇼/이누마루
