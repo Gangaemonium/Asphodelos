@@ -122,6 +122,7 @@
 ## 피낙스 (독 - 개인 범위 공격)
 ![/p4s_I/images/0097.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0097.png)
 ## 피낙스 (물장구 - 넉백)
+![/p4s_I/images/0099.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0099.png)
 ## 피낙스 (용암 - 쉐어)
 ## 변위 타격 (검)
 ## 변위 타격 (망토)
@@ -139,6 +140,8 @@
 ## 전염 처리 (YPP식) 서로 다른 조 III
 ![/p4s_I/images/0061.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0061.png)
 > 처음 줄이 탱/힐조, 두번째가 딜러조가 받은 경우 반대로 처리<br>3번 표식에서 모여 전염을 처리하고 딜러가 보스 안쪽으로 이동하여 산개하는 식
-## 극장창조 업타임 정리
+# 극장창조 업타임 정리
+## 기본 주차
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
+## 독 산개
 ![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
