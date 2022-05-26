@@ -124,13 +124,10 @@
 ## 극장창조 개요
 ![/p4s_I/images/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0062.png)
 > 속성 무대 위치는 랜덤이며, 각 속성은 선더 + 독/용암 또는 물장구 + 독/용암 그룹으로 활성화된다.
-## 극장창조 주차
-![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
 ## 피낙스 (선더 - 거리 반비례)
 ![/p4s_I/images/0096.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0096.png)
 ## 피낙스 (독 - 개인 범위 공격)
 ![/p4s_I/images/0097.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0097.png)
-![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
 ## 피낙스 (물장구 - 넉백)
 ## 피낙스 (용암 - 쉐어)
 ## 변위 타격 (검)
@@ -141,3 +138,6 @@
 ![/p4s_I/images/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0010.png)
 ## 강화된 벨로네: 폭발 처리 (뇌사식)
 ![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
+## 극장창조 업타임 정리
+![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
+![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
