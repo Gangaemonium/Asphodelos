@@ -100,8 +100,13 @@
     - 8방향으로 30º 부채꼴 장판 시전, 이후 장판이 없었던 공간에 전조 없이 한번 더 공격
 
 ## 가시의 비극: 서막
-## 가시의 비극: 제 2막 (정규)
+![/p4s_II/images/0105.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0105.png)
+## 가시의 비극: 제 2막 - 동서 시작
+![/p4s_II/images/0106.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0106.png)
+## 가시의 비극: 제 2막 - 남북 시작
+![/p4s_II/images/0107.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0107.png)
 ## 가시의 비극: 제 3막 - 공대식
+![/p4s_II/images/0108.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0108.png)
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 ## 가시의 비극: 제 4막
 ![/p4s_II/images/p4s2_act4_info1.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info1.gif)
