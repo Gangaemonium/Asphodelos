@@ -148,3 +148,8 @@
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
 ## 독 산개
 ![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
+# 강화된 벨로네: 원형 처리 - 일자식
+## 강화된 벨로네: 원형 처리 - 일자식 (탱힐 금지 기둥)
+![/p4s_I/images/0103.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0103.png)
+## 강화된 벨로네: 원형 처리 - 일자식 (딜러 금지 기둥)
+![/p4s_I/images/0104.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0104.png)
