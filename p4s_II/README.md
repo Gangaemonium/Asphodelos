@@ -112,6 +112,7 @@
 ![/p4s_II/images/0111.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0111.png)
 ![/p4s_II/images/0110.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0110.png)
 ![/p4s_II/images/0112.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0112.png)
+![/p4s_II/images/0113.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0113.png)
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 ## 가시의 비극: 제 4막
 ![/p4s_II/images/p4s2_act4_info1.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info1.gif)
