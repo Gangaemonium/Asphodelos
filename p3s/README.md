@@ -146,8 +146,6 @@
 ![/p3s/images/0092.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0092.png)
 ## 돌진 산개도 - 산개
 ![/p3s/images/0012.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0012.png)
-## 돌진 산개도 - 쉐어
-![/p3s/images/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0013.png)
 ## 돌진 산개도 - 쉐어 근접 산개법
 ![/p3s/images/0014.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0014.png)
 ## 쫄페이즈 줄 처리
@@ -191,8 +189,6 @@
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
 ## 폭풍 + 어둠의 겁화천초
 ![/p3s/images/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0068.png)
-## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
-![/p3s/images/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/001.png)
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱원/힐근 구성)
 ![/p3s/images/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/002.png)
 ## 죽음의 운명 + 새들의 비상 처리
@@ -203,10 +199,13 @@
 >
 > 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
 ## 어둠의 겁화천초 (큰 구슬+큰 구슬) 처리
-![/p3s/images/0089.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0089.png)
+![/p3s/images/0089.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0089.png)v
 > 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
+# 다른 방법 정리
 
-# 영혼샘의 불꽃 - 해피아저식
+## 돌진 산개도 - 쉐어
+![/p3s/images/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0013.png)
+
 ## 영혼샘의 불꽃 - 해피아저식 I
 ![/p3s/images/0072.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0072.png)
 ## 영혼샘의 불꽃 - 해피아저식 II
@@ -217,7 +216,9 @@
 ![/p3s/images/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0075.png)
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 
-# 변옥의 폭풍 처리법
+## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
+![/p3s/images/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/001.png)
+
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/images/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0015.png)
 ## 변옥의 폭풍 정규 처리 - 누케마루식
