@@ -101,12 +101,17 @@
 
 ## 가시의 비극: 서막
 ![/p4s_II/images/0105.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0105.png)
+> 첫 안전지대를 보고 처리해야 할 기둥이 어딘지 확인한다.
 ## 가시의 비극: 제 2막 - 동서 시작
 ![/p4s_II/images/0106.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0106.png)
 ## 가시의 비극: 제 2막 - 남북 시작
 ![/p4s_II/images/0107.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0107.png)
 ## 가시의 비극: 제 3막 - 공대식
 ![/p4s_II/images/0108.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0108.png)
+![/p4s_II/images/0109.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0109.png)
+![/p4s_II/images/0110.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0110.png)
+![/p4s_II/images/0111.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0111.png)
+![/p4s_II/images/0112.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0112.png)
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 ## 가시의 비극: 제 4막
 ![/p4s_II/images/p4s2_act4_info1.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info1.gif)
