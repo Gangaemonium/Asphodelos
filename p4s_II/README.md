@@ -109,6 +109,10 @@
 ## 가시의 비극: 제 2막 - 처리 (동서 예시)
 ![/p4s_II/images/0118.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0118.png)
 ![/p4s_II/images/0119.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0119.png)
+## 가시의 비극: 제 2막 - 에어로가 동선 (동서 예시)
+![/p4s_II/images/0120.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0120.png)
+## 가시의 비극: 제 2막 - 파이가 동선 (동서 예시)
+![/p4s_II/images/0121.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0121.png)
 ## 가시의 비극: 제 3막
 ![/p4s_II/images/0114.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0114.png)
 ## 가시의 비극: 제 3막 - 공대식
