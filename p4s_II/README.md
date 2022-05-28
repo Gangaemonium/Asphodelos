@@ -127,6 +127,8 @@
 ![/p4s_II/images/0113.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0113.png)
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 ## 가시의 비극: 제 4막
+![/p4s_II/images/0123.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0123.png)
+## 가시의 비극: 제 4막 - 다쟈 처리
 ![/p4s_II/images/p4s2_act4_info1.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info1.gif)
 ![/p4s_II/images/p4s2_act4_info2.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/p4s2_act4_info2.gif)
 ## 가시의 비극: 종막 - 산개 I
