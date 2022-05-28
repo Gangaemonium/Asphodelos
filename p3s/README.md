@@ -186,7 +186,7 @@
 >
 > tuufless식에 비해 힐업이 용이하다는 장점이 있다.<br>단점은 사고가 발생하면 처음부터 다시 시작해야 한다는 문제가 있다.
 >
-> 이외 처리법은 [여기](#변옥의-폭풍-정규-처리---햄카츠이누마루식)에 정리되어 있음
+> 이외 처리법은 [여기](#변옥의-폭풍-무적-처리---tuufless식)에 정리되어 있음
 ## 변옥의 암염선풍 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
 ## 폭풍 + 어둠의 겁화천초
