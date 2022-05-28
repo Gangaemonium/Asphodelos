@@ -106,6 +106,8 @@
 ![/p4s_II/images/0106.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0106.png)
 ## 가시의 비극: 제 2막 - 남북 시작
 ![/p4s_II/images/0107.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0107.png)
+## 가시의 비극: 제 3막
+![/p4s_II/images/0114.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0114.png)
 ## 가시의 비극: 제 3막 - 공대식
 ![/p4s_II/images/0108.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0108.png)
 ![/p4s_II/images/0109.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0109.png)
@@ -125,4 +127,7 @@
 ![/p4s_II/images/0079.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0079.png)
 # 가시의 비극: 제 3막 처리법
 ## 가시의 비극: 제 3막 - 제노
+![/p4s_II/images/0115.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0115.png)
+![/p4s_II/images/0116.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0116.png)
+![/p4s_II/images/0117.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0117.png)
 ## 가시의 비극: 제 3막 - 시노쇼/이누마루
