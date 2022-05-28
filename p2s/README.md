@@ -86,6 +86,7 @@
 ## 영수탄
 ![/p2s/images/0082.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0082.png)
 ## 통합
+![/p2s/images/0124.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0124.png)
 ## 다중 낙인 처리
 ![/p2s/images/0055.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0055.png)
 ## 대폭포 날갯짓 (윙 카타락티스)
