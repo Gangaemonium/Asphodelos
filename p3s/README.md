@@ -7,13 +7,13 @@
 
 --------
 
-## 3층: 페넥스
+# 3층: 페넥스
 
 ### [전체 타임라인](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p3s.md)
 
 --------
 
-# 기믹 해설
+## 기믹 해설
 
 - 잿더미 화염
     - 광역 공격

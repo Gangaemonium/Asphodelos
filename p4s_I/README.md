@@ -8,13 +8,13 @@
 
 --------
 
-## 4층: 헤스페로스
+# 4층: 헤스페로스
 
 ### [전체 타임라인](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p4s1.md)
 
 --------
 
-# 기믹 해설
+## 기믹 해설
 
 - 집단 참수
     - 광역 대미지

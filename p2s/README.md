@@ -7,13 +7,13 @@
 
 --------
 
-## 2층: 히포캄포스
+# 2층: 히포캄포스
 
 ### [전체 타임라인](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p2s.md)
 
 --------
 
-# 기믹 해설
+## 기믹 해설
 
 - 짙은 탁류
     - 광역 공격 `(IL580기준 HP 60%~)`
