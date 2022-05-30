@@ -198,7 +198,7 @@
 ## 폭풍 + 어둠의 겁화천초
 ![/p3s/images/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0068.png)
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱원/힐근 구성)
-![/p3s/images/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/002.png)
+![/p3s/images/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0007.png)
 ## 죽음의 운명 + 새떼 비상 처리
 ![/p3s/images/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0077.png)
 ## 어둠의 겁화천초 (큰 구슬+작은 구슬) 처리
@@ -226,7 +226,7 @@
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
-![/p3s/images/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/001.png)
+![/p3s/images/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0005.png)
 
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/images/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0015.png)
