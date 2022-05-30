@@ -23,9 +23,9 @@
     - 물에 닿을 시 `물독` 디버프 부여
     - 필드의 높은 지대 중 무작위 한 곳이 위험 지대로 변경됨 (해당 발판에 닿을 시 사망)
     - 위험 지대 기준 대각선 방향의 높은 지대가 본진의 위치
-- [숨결 홍수](#숨결-홍수-브레스-카타락티스)/[숨결 날개](#숨결-날개-윙-카타락티스)
+- [숨결 홍수](#숨결-홍수-브레스-카타락티스)/[날갯짓 홍수](#날갯짓-홍수-윙-카타락티스)
     - 숨결 홍수: 머리 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
-    - 숨결 날개: 머리 반대 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
+    - 날갯짓 홍수: 머리 반대 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
 - [간섭 공격](#간섭-공격)
     - 줄이 연결된 캐릭터에게 넓은 범위의 강공격<br>
     탱커가 줄을 가져간 다음 본진 반대편에서 처리
@@ -89,7 +89,7 @@
 ![/p2s/images/0124.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0124.png)
 ## 다중 낙인 처리
 ![/p2s/images/0055.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0055.png)
-## 대폭포 날갯짓 (윙 카타락티스)
+## 날갯짓 홍수 (윙 카타락티스)
 ![/p2s/images/0049.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0049.png)
 ## 숨결 홍수 (브레스 카타락티스)
 ![/p2s/images/0050.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0050.png)
