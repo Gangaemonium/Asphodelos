@@ -74,11 +74,11 @@
 > 공격은 보스 기준이므로 탱커의 주차가 중요
 ## 결주의 사슬 처리
 ![/p1s/images/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0029.png)
-## 결주의 사연사슬 처리
+## 결주의 사연 사슬 처리
 ![/p1s/images/0031.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0031.png)
-## 징벌 연격: 염
+## 징벌 연격: 화염
 ![/p1s/images/0032.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0032.png)
-## 징벌 연격: 성
+## 징벌 연격: 신성
 ![/p1s/images/0033.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0033.png)
 ## 얼음불 침식 타입A
 ![/p1s/images/0042.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0042.png)
@@ -92,7 +92,7 @@
 > D3은 속성 부여 후 ST자리로 이동하여 반대 속성을 부여받고 MT자리로 이동한다.
 ## 광염 감옥
 ![/p1s/images/0040.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0040.png)
-## 시한의 사슬
+## 시한부 사슬
 ![/p1s/images/0039.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0039.png)
 ## 광염 감옥 + 결주의 사슬
 ![/p1s/images/0041.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0041.png)
