@@ -12,7 +12,7 @@
 
 # 기믹 해설
 
-- 흙탕물 바닥
+- 짙은 탁류
     - 광역 공격 `(IL580기준 HP 60%~)`
 - 이중 충격
     - 적개심 1순위 탱커에게 강공격, `무적기` 또는 `탱커 2인이 쉐어로 처리`
@@ -23,10 +23,10 @@
     - 물에 닿을 시 `물독` 디버프 부여
     - 필드의 높은 지대 중 무작위 한 곳이 위험 지대로 변경됨 (해당 발판에 닿을 시 사망)
     - 위험 지대 기준 대각선 방향의 높은 지대가 본진의 위치
-- [대폭포 분사](#대폭포-분사-브레스-카타락티스)/[대폭포 날갯짓](#대폭포-날갯짓-윙-카타락티스)
-    - 대폭포 분사: 머리 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
-    - 대폭포 날갯짓: 머리 반대 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
-- [통합](#통합)
+- [숨결 홍수](#숨결-홍수-브레스-카타락티스)/[숨결 날개](#숨결-날개-윙-카타락티스)
+    - 숨결 홍수: 머리 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
+    - 숨결 날개: 머리 반대 방향 180º 범위 공격 + 몸통 전후방 일직선 범위 공격
+- [간섭 공격](#간섭-공격)
     - 줄이 연결된 캐릭터에게 넓은 범위의 강공격<br>
     탱커가 줄을 가져간 다음 본진 반대편에서 처리
     - 줄이 연결되지 않은 무작위 대상자를 향해 일직선의 쉐어 공격<br>
@@ -42,7 +42,7 @@
     - 힐러: 본인 기준 쉐어 공격
 - [분리](#분리-디소시에이션)
     - 머리 분리 후 나타나는 위치를 기준으로 맵 절반 공격
-- [오수 분출](#분리오수-분출-처리-i)
+- [하수 분출](#분리하수-분출-처리-i)
     - 전원 발 밑에 원형 장판 3회 생성
     - 분리 기믹과 같이 등장
     - 분리 피격범위에서 출발하여 분리 안전지대 방향으로 3회 이동
@@ -66,13 +66,13 @@
 - [전달되는 범람 1](#첫번째-전달되는-범람-채널링-오버플로우-처리) 타임라인
     - 탱커/힐러/딜러에게 `급동의 낙인: (전후좌우)` 13초, 28초 부여
     - `급동의 낙인: (전후좌우)` 13초 대상자가 각자 자리로 산개
-    - `황파(밀치기)` 발동과 동시에 28초 대상자들에게 오염된 홍수(원형 범위의 개인징) 발동
+    - `황파(밀치기)` 발동과 동시에 28초 대상자들에게 오염 침수(원형 범위의 개인징) 발동
     - `급동의 낙인: (전후좌우)` 28초 대상자가 각자 자리로 산개
-    - 황파 발동과 동시에 13초 대상자들에게 오염된 홍수 발동
+    - 황파 발동과 동시에 13초 대상자들에게 오염 침수 발동
 - [전달되는 범람 2](#두번째-전달되는-범람-채널링-오버플로우-처리-i) 타임라인
     - 탱커/힐러/딜러에게 `급동의 낙인: (전후좌우)` 13초, 28초 부여<br>
     (약산개하여 화살표 방향 확인)
-    - 28초 디버프 탱커가 통합 줄을 가지고 위험 지대 근처로 이동<br>
+    - 28초 디버프 탱커가 간섭 공격 줄을 가지고 위험 지대 근처로 이동<br>
     본진과 가장 멀리 떨어질 수 있는 위험 지대 근처까지 가는게 제일 좋다.<br>
     13초 디버프 대상자들은 본진에서 기다리다가 줄이 제대로 연결된 것을 확인하고 산개<br>
     **하수 범람과 동일하게 파티 생존기 분배가 반드시 필요하므로 주의**
@@ -81,21 +81,21 @@
     - 줄이 연결되지 않은 무작위 대상자를 향해 일직선의 쉐어 공격<br>
     가장 앞에 있는 사람이 아프게 맞으므로 `13초 디버프 탱커`가 가장 앞에 서서 처리
     - `급동의 낙인: (전후좌우)` 28초 디버프 대상자들 산개 및 황파 처리
-    - **13초 디버프 처리 후 통합 발동까지 시간이 짧으므로 빠르게 본진 복귀 후 회복받고 통합을 처리해야함**
+    - **13초 디버프 처리 후 간섭 공격 발동까지 시간이 짧으므로 빠르게 본진 복귀 후 회복받고 간섭 공격을 처리해야함**
 
 ## 영수탄
 ![/p2s/images/0082.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0082.png)
-## 통합
+## 간섭 공격
 ![/p2s/images/0124.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0124.png)
 ## 다중 낙인 처리
 ![/p2s/images/0055.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0055.png)
 ## 대폭포 날갯짓 (윙 카타락티스)
 ![/p2s/images/0049.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0049.png)
-## 대폭포 분사 (브레스 카타락티스)
+## 숨결 홍수 (브레스 카타락티스)
 ![/p2s/images/0050.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0050.png)
-## 대폭포 분사/날갯짓 (브레스/윙) 몸통 공격
+## 숨결 홍수/날갯짓 (브레스/윙) 몸통 공격
 ![/p2s/images/0051.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0051.png)
-## 대폭포 분사 (브레스 카타락티스) 예시
+## 숨결 홍수 (브레스 카타락티스) 예시
 ![/p2s/images/0052.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0052.png)
 ## 전달되는 흐름 (채널링 플로우) 처리
 ![/p2s/images/0025.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0025.png)
@@ -114,9 +114,9 @@
 > 13초 넉백 인원은 본진으로 다시 모여 쉐어 대미지를 처리,<br>그 뒤 27초 인원은 넉백을 처리한다<br>탱커 리밋을 사용해서 처리해도 되나 탱커의 숙련이 필요하므로 정규 처리 방법을 익혀두자
 ## 분리 (디소시에이션)
 ![/p2s/images/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0053.png)
-## 분리+오수 분출 처리 I
+## 분리+하수 분출 처리 I
 ![/p2s/images/0083.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0083.png)
 ## 분리+분사+다중 낙인 (디소시에이션+브레스)
 ![/p2s/images/0054.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0054.png)
-## 분리+오수 분출 처리 II
+## 분리+하수 분출 처리 II
 ![/p2s/images/0084.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0084.png)
