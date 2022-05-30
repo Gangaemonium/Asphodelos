@@ -7,6 +7,10 @@
 
 --------
 
+## 1층: 에리크토니오스
+
+--------
+
 ### [전체 타임라인](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p1s.md)
 
 ※ 공팟의 경우 징 색상끼리 교대 처리를 하게 되므로 각 파티의 징 위치를 정확히 확인하고 조율하기 바람.
