@@ -1,9 +1,9 @@
 - [메인](https://github.com/Gangaemonium/Asphodelos/tree/main/README.md)
-- [마의 전당 판데모니움 변옥편 1층](https://github.com/Gangaemonium/Asphodelos/tree/main/p1s/README.md)
-- [마의 전당 판데모니움 변옥편 2층](https://github.com/Gangaemonium/Asphodelos/tree/main/p2s/README.md)
-- __마의 전당 판데모니움 변옥편 3층__
-- [마의 전당 판데모니움 변옥편 4층 전반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_I/README.md) 
-- [마의 전당 판데모니움 변옥편 4층 후반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_II/README.md)
+    - [마의 전당 판데모니움 변옥편 1층](https://github.com/Gangaemonium/Asphodelos/tree/main/p1s/README.md)
+    - [마의 전당 판데모니움 변옥편 2층](https://github.com/Gangaemonium/Asphodelos/tree/main/p2s/README.md)
+    - __마의 전당 판데모니움 변옥편 3층__
+    - [마의 전당 판데모니움 변옥편 4층 전반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_I/README.md) 
+    - [마의 전당 판데모니움 변옥편 4층 후반](https://github.com/Gangaemonium/Asphodelos/tree/main/p4s_II/README.md)
 
 --------
 
@@ -21,7 +21,7 @@
     - 줄에 연결된 대상자 둘에게 좁은 범위 강공격
     - 본진은 보스 후방에 모여서 칼끝딜
     - 탱커 둘은 본진에 연결된 줄을 가져가 전방에서 처리
-- 마력연성: 겁화천초
+- 마력 연성: 겁화천초
     - 시전이 끝나고 나타나는 불 구슬의 형태에 따라 2가지의 패턴이 존재함
     - 큰 구슬 한 개 : 무작위 대상자 기준 넓은 범위 장판<br>
     전원 중앙에서 장판 유도 후 맵 12시 끝으로 이동하여 회피
@@ -51,9 +51,9 @@
     - 피격 시 주는 피해량 감소 디버프를 얻음
 - 열 분사
     - 전원 발 밑에 회피 가능한 원형 범위 장판 생성
-- 십자 불길 + 마력연성: 겁화천초 + 열 분사
+- 십자 불길 + 마력 연성: 겁화천초 + 열 분사
     - 전원 중앙에서 대기
-    - 마력연성: 겁화천초 패턴 확인 후 패턴에 따라 안전지대로 이동
+    - 마력 연성: 겁화천초 패턴 확인 후 패턴에 따라 안전지대로 이동
     - 큰 구슬 한 개일 경우 12시에 십자 불길 장판이 있으므로 11시 또는 1시로 이동
     - 작은 구슬 여러 개일 경우 첫 번째로 착탄된 장판 위치에 따라 11시 또는 1시로 이동
     - 십자 불길 범위 밖에 모여서 열 분사 장판 유도 후 회피
@@ -85,7 +85,7 @@
     - 새들끼리 가깝게 설치될 경우 줄이 연결되며 터지므로 징 위에 정확히 설치
     - 첫 번째 새떼 비상은 화살표가 외곽을 향하도록 설치
     - 두 번째 새떼 비상은 즉사 기믹을 처리하기 위해 화살표가 중앙을 향하도록 설치
-- 마력연성: 염암겁화
+- 마력 연성: 염암겁화
     - 시전이 끝나고 나타나는 어둠 구슬의 형태에 따라 2가지의 패턴이 존재함
     - 불 구슬은 작은 구슬 여러 개 고정
     - 어둠 구슬이 큰 구슬 한 개일 경우 탱커/힐러 각 1명 기준 쉐어 공격
@@ -102,7 +102,7 @@
 - 변옥의 불꽃
     - 보스 기준 양방향 60º 부채꼴 범위 공격 3회
     - 세번째 장판 위치에서 대기하다 첫번째 장판으로 이동
-- 마력연성: 어둠의 겁화천초
+- 마력 연성: 어둠의 겁화천초
     - 시전이 끝나고 나타나는 어둠 구슬의 형태에 따라 2가지의 패턴이 존재함
     - 어둠 구슬이 큰 구슬 한 개일 경우 탱커/힐러 각 1명 기준 쉐어 공격
     - 어둠 구슬이 작은 구슬 여러 개일 경우 전원 개인 범위 공격
@@ -113,12 +113,12 @@
     - 줄에 연결된 대상자 둘에게 좁은 범위 강공격 (탱커가 처리)
     - 보스와 가까운 3명에게 60º 부채꼴 범위 공격 (유격대를 제외한 나머지 딜러 셋이 처리)
     - 회오리와 가까운 3명에게 60º 부채꼴 범위 공격 (유격대와 힐러 둘이 처리)
-- 변옥의 암염선풍 + 열 분사 + 마력연성: 어둠의 겁화천초
+- 변옥의 암염선풍 + 열 분사 + 마력 연성: 어둠의 겁화천초
     - 운동회 기믹
     - 회오리 하나에게 검은색 선이 연결되며(일정 시간 후에 회오리 기준 넉백) 나머지 둘에게는 붉은색 선이 연결됨(일정 시간 후에 회오리 기준 도넛형 범위 공격)
     - 전원 검은색 선이 연결된 회오리 쪽에 모여 열 분사를 처리하며 보스 주변 한 바퀴 돌기
     - 근거리조는 검은색 선 회오리 왼쪽에, 원거리조는 오른쪽에 모여서 회오리 기준 넉백
-    - 붉은색 선이 연결된 회오리와 가깝게 넉백되어 도넛형 범위 공격을 피한 후 마력연성: 어둠의 겁화천초의 어둠 구슬의 형태에 따라 쉐어 또는 산개 처리
+    - 붉은색 선이 연결된 회오리와 가깝게 넉백되어 도넛형 범위 공격을 피한 후 마력 연성: 어둠의 겁화천초의 어둠 구슬의 형태에 따라 쉐어 또는 산개 처리
 - 죽음의 운명
     - 전원에게 죽음의 운명 디버프 부여 (1/2/4스택 무작위)
     - 죽을 데미지를 받을 때마다 체력을 1 남기고 디버프 1스택을 소모함
@@ -134,10 +134,10 @@
 
 ## 지옥불 염격
 ![/p3s/images/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0065.png)
-## 마력연성: 겁화천초 (작은 구슬)
-![/p3s/images/003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/003.png)
-## 마력연성: 겁화천초 (큰 구슬)
-![/p3s/images/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/004.png)
+## 마력 연성: 겁화천초 (작은 구슬)
+![/p3s/images/003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0000.png)
+## 마력 연성: 겁화천초 (큰 구슬)
+![/p3s/images/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0001.png)
 ## 십자 불길 처리 (작은 구슬)
 ![/p3s/images/0090.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0090.png)
 > 작은 구슬의 경우 북쪽 방향으로 처음 떨어지는 구슬 쪽으로 이동한다.<br>그 후 시계방향으로 이동, 한곳에 모여 이럽션을 처리한다.
@@ -189,7 +189,10 @@
 >
 > tuufless식에 비해 힐업이 용이하다는 장점이 있다.<br>단점은 사고가 발생하면 처음부터 다시 시작해야 한다는 문제가 있다.
 >
-> 이외 처리법은 [여기](#변옥의-폭풍-무적-처리---tuufless식)에 정리되어 있음
+> 이외 처리법은 아래의 링크 클릭<br>
+> [tuufless (무적)](#변옥의-폭풍-무적-처리---tuufless식)<br>
+> [근딜 배려식 (정규)](#변옥의-폭풍-정규-처리---누케마루식)<br>
+> [남쪽 처리식 (정규)](#변옥의-폭풍-정규-처리---햄카츠이누마루식)
 ## 변옥의 암염선풍 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
 ## 폭풍 + 어둠의 겁화천초
