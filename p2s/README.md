@@ -40,7 +40,7 @@
     - 탱커/딜러/힐러 각 1인에게 디버프 부여
     - 탱커/딜러: 본인 기준 넓은 범위의 원형 공격, 피격 시 본인 제외 넉백
     - 힐러: 본인 기준 쉐어 공격
-- [분리](#분리-디소시에이션)
+- [머리 분리](#머리-분리)
     - 머리 분리 후 나타나는 위치를 기준으로 맵 절반 공격
 - [하수 분출](#분리하수-분출-처리-i)
     - 전원 발 밑에 원형 장판 3회 생성
@@ -112,11 +112,11 @@
 ## 두번째 전달되는 범람 (채널링 오버플로우) 처리 III
 ![/p2s/images/0034.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0034.png)
 > 13초 넉백 인원은 본진으로 다시 모여 쉐어 대미지를 처리,<br>그 뒤 27초 인원은 넉백을 처리한다<br>탱커 리밋을 사용해서 처리해도 되나 탱커의 숙련이 필요하므로 정규 처리 방법을 익혀두자
-## 분리 (디소시에이션)
+## 머리 분리
 ![/p2s/images/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0053.png)
 ## 분리+하수 분출 처리 I
 ![/p2s/images/0083.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0083.png)
-## 분리+분사+다중 낙인 (디소시에이션+브레스)
+## 분리+숨결+다중 낙인
 ![/p2s/images/0054.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0054.png)
 ## 분리+하수 분출 처리 II
 ![/p2s/images/0084.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0084.png)
