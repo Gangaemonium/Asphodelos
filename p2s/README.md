@@ -9,8 +9,6 @@
 
 ## 2층: 히포캄포스
 
---------
-
 ### [전체 타임라인](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p2s.md)
 
 --------
