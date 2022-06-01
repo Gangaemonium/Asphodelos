@@ -29,4 +29,8 @@
 
 --------
 
+- 다운로드보다 북마크 해주시면 감사하겠습니다.
+
+--------
+
 __2010-2022 SQUARE ENIX CO., LTD. All Rights Reserved FINAL FANTASY X|V__
