@@ -234,4 +234,6 @@
 ![/p3s/images/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0017.png)
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
 ![/p3s/images/0018.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0018.png)
-![/p3s/images/0000.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0000.png)
+## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
+### D3 북쪽 배치
+![/p3s/images/0129.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0129.png)
