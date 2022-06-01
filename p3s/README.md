@@ -135,9 +135,9 @@
 ## 지옥불 염격
 ![/p3s/images/0065.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0065.png)
 ## 마력 연성: 겁화천초 (작은 구슬)
-![/p3s/images/003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0000.png)
+![/p3s/images/0000.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0000.png)
 ## 마력 연성: 겁화천초 (큰 구슬)
-![/p3s/images/004.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0001.png)
+![/p3s/images/0001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0001.png)
 ## 십자 불길 처리 (작은 구슬)
 ![/p3s/images/0090.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0090.png)
 > 작은 구슬의 경우 북쪽 방향으로 처음 떨어지는 구슬 쪽으로 이동한다.<br>그 후 시계방향으로 이동, 한곳에 모여 이럽션을 처리한다.
@@ -198,7 +198,7 @@
 ## 폭풍 + 어둠의 겁화천초
 ![/p3s/images/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0068.png)
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱원/힐근 구성)
-![/p3s/images/002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0007.png)
+![/p3s/images/0007.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0007.png)
 ## 죽음의 운명 + 새떼 비상 처리
 ![/p3s/images/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0077.png)
 ## 어둠의 겁화천초 (큰 구슬+작은 구슬) 처리
@@ -226,7 +226,7 @@
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
-![/p3s/images/001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0005.png)
+![/p3s/images/0005.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0005.png)
 
 ## 변옥의 폭풍 무적 처리 - tuufless식
 ![/p3s/images/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0015.png)
@@ -235,9 +235,3 @@
 ## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
 ![/p3s/images/0018.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0018.png)
 ![/p3s/images/0000.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0000.png)
-
-![/p3s/images/0001.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0001.png)
-
-![/p3s/images/0005.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0005.png)
-
-![/p3s/images/0007.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0007.png)
