@@ -169,8 +169,11 @@
 ![/p4s_II/images/0081.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0081.png)
 ## 가시의 비극: 커튼 콜
 ![/p4s_II/images/0079.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0079.png)
-# 가시의 비극: 제 3막 처리법
-## 가시의 비극: 제 3막 - 제노
+# 가시의 비극: 제 2막 처리
+## 근딜 칼끝딜 안전지대
+![/p4s_II/images/0130.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0130.png)
+# 가시의 비극: 제 3막 처리
+## Xenosys 처리법
 ![/p4s_II/images/0115.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0115.png)
 ![/p4s_II/images/0116.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0116.png)
 ![/p4s_II/images/0117.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0117.png)
