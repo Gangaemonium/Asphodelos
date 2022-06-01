@@ -173,3 +173,4 @@
 ![/p4s_II/images/0115.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0115.png)
 ![/p4s_II/images/0116.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0116.png)
 ![/p4s_II/images/0117.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0117.png)
+![/p4s_II/images/0126.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0126.png)
