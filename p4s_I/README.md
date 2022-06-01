@@ -137,10 +137,10 @@
 ![/p4s_I/images/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0009.png)
 ## 마법검 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
 ![/p4s_I/images/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0010.png)
+> 다른 방식: [북쪽 일자 처리](#마법검-벨로네-원형-처리---일자식)
 ## 마법검 벨로네: 폭발 처리 (뇌사식)
 ![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
-## 마법검 벨로네: 폭발 처리 (동선 고정)
-![/p4s_I/images/0127.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0127.png)
+> 다른 방식: [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)
 # YPP식
 ## 전염 처리 (YPP식) 서로 다른 조 I
 ![/p4s_I/images/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0059.png)
@@ -159,3 +159,6 @@
 ![/p4s_I/images/0103.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0103.png)
 ## 마법검 벨로네: 원형 처리 - 일자식 (딜러 금지 기둥)
 ![/p4s_I/images/0104.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0104.png)
+# 그 외
+## 마법검 벨로네: 폭발 처리 (동선 고정)
+![/p4s_I/images/0127.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0127.png)
