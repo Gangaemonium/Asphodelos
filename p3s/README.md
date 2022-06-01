@@ -190,9 +190,10 @@
 > tuufless식에 비해 힐업이 용이하다는 장점이 있다.<br>단점은 사고가 발생하면 처음부터 다시 시작해야 한다는 문제가 있다.
 >
 > 이외 처리법은 아래의 링크 클릭<br>
-> [tuufless (무적)](#변옥의-폭풍-무적-처리---tuufless식)<br>
-> [근딜 배려식 (정규)](#변옥의-폭풍-정규-처리---누케마루식)<br>
-> [남쪽 처리식 (정규)](#변옥의-폭풍-정규-처리---햄카츠이누마루식)
+> [tuufless (무적)](#변옥의-폭풍-무적-처리---tuufless)<br>
+> [근딜 배려식 (정규)](#변옥의-폭풍-정규-처리---누케마루)<br>
+> [남쪽 처리식 (정규)](#변옥의-폭풍-정규-처리---햄카츠이누마루)<br>
+> [남쪽 처리식 (정규) - D3 북쪽](#변옥의-폭풍-정규-처리---햄카츠이누마루-d3-북쪽-배치)
 ## 변옥의 암염선풍 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
 ## 폭풍 + 어둠의 겁화천초
@@ -228,12 +229,11 @@
 ## 폭풍 어둠의 겁화천초 이후 산개 (탱근/힐원 구성)
 ![/p3s/images/0005.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0005.png)
 
-## 변옥의 폭풍 무적 처리 - tuufless식
+## 변옥의 폭풍 무적 처리 - tuufless
 ![/p3s/images/0015.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0015.png)
-## 변옥의 폭풍 정규 처리 - 누케마루식
+## 변옥의 폭풍 정규 처리 - 누케마루
 ![/p3s/images/0017.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0017.png)
-## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
+## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루
 ![/p3s/images/0018.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0018.png)
-## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루식
-### D3 북쪽 배치
+## 변옥의 폭풍 정규 처리 - 햄카츠/이누마루 D3 북쪽 배치
 ![/p3s/images/0129.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0129.png)
