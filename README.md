@@ -8,8 +8,9 @@
 
 #### 📦 Disclaimer
 - 기믹 처리법을 참고하되 공대의 조합에 따라 가장 적합한 공략을 선택,<br>필요하다면 수정하여 진행하는 것이 가장 바람직합니다.
-- 모든 기믹의 처리법을 넣어두지 못했을 수 있으니 누락된 부분이 있는 경우 [의견](https://github.com/Gangaemonium/Asphodelos/discussions) 부탁드립니다.
 - 가급적 PC로 보는 것을 권장합니다. 모바일 열람 시 데이터 사용에 주의해주시기 바랍니다.
+- 설명 중 난해하거나 부족한 부분이 있는 경우 아래 의견 링크를 통해 해당 부분을 남겨주시면 감사하겠습니다.
+- 모든 기믹의 처리법을 넣어두지 못했을 수 있으니 누락된 부분이 있는 경우 [의견](https://github.com/Gangaemonium/Asphodelos/discussions) 부탁드립니다.
 
 --------
 
@@ -28,6 +29,8 @@
     - [4층(후반)](https://github.com/Gangaemonium/Asphodelos/tree/main/timeline/p4s2.md)
 
 --------
+
+#### 📦 Other
 
 <details>
     <summary>ETC</summary>
