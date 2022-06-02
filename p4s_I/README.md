@@ -154,7 +154,8 @@
 ## 독 산개
 ![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
 #### 참고 영상
-> https://youtu.be/JlpPGklQF0o
+<a href="https://youtu.be/JlpPGklQF0o" target="_blank">https://youtu.be/JlpPGklQF0o</a>
+
 # 마법검 벨로네: 원형 처리 - 일자식
 ## 마법검 벨로네: 원형 처리 - 일자식 (탱힐 금지 기둥)
 ![/p4s_I/images/0103.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0103.png)

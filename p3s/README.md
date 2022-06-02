@@ -177,9 +177,9 @@
 > 공대에서 채용한 방법
 >
 > 해피아저(ハピおじ)식과 비교했을 때 자리가 고정된 처리법이므로<br>외곽을 돌고있는 힐러를 향해 새를 발사하는게 아니라면 훨씬 처리하기 쉽다.
-
 #### 참고 영상
-> https://youtu.be/31_2BeHgSwQ
+<a href="https://youtu.be/31_2BeHgSwQ" target="_blank">https://youtu.be/31_2BeHgSwQ</a>
+
 ## 변옥의 폭풍 I 산개 처리
 ![/p3s/images/p3s_soa.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/p3s_soa.gif)
 ## 변옥의 폭풍 I 쉐어 처리
@@ -198,7 +198,8 @@
 > [남쪽 처리식 (정규)](#변옥의-폭풍-정규-처리---햄카츠이누마루)<br>
 > [남쪽 처리식 (정규) - D3 북쪽](#변옥의-폭풍-정규-처리---햄카츠이누마루-d3-북쪽-배치)
 #### 참고 영상
-https://youtu.be/JlpPGklQF0o
+<a href="https://youtu.be/31_2BeHgSwQ" target="_blank">https://youtu.be/31_2BeHgSwQ</a>
+
 ## 변옥의 암염선풍 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
 ## 폭풍 + 어둠의 겁화천초
