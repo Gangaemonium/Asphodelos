@@ -134,6 +134,7 @@
 ![/p4s_I/images/0101.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0101.png)
 ## 마법검 벨로네: 원형 처리 - 공대식 (딜러 금지 기둥)
 ![/p4s_I/images/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0009.png)
+![/p4s_I/images/p4s1_tower_dps_anim.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/p4s1_tower_dps_anim.gif)
 ## 마법검 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
 ![/p4s_I/images/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0010.png)
 ![/p4s_I/images/p4s1_tower_th_anim.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/p4s1_tower_th_anim.gif)
