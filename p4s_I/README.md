@@ -137,7 +137,7 @@
 ## 마법검 벨로네: 원형 처리 - 공대식 (탱힐 금지 기둥)
 ![/p4s_I/images/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0010.png)
 > 다른 방식: [북쪽 일자 처리](#마법검-벨로네-원형-처리---일자식)
-## 마법검 벨로네: 폭발 처리 (뇌사식)
+## 마법검 벨로네: 폭발 처리 GUMI (뇌사식)
 ![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
 > 다른 방식: [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)
 # YPP식
@@ -153,6 +153,8 @@
 ![/p4s_I/images/0063.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0063.png)
 ## 독 산개
 ![/p4s_I/images/0098.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0098.png)
+#### 참고 영상
+> https://youtu.be/JlpPGklQF0o
 # 마법검 벨로네: 원형 처리 - 일자식
 ## 마법검 벨로네: 원형 처리 - 일자식 (탱힐 금지 기둥)
 ![/p4s_I/images/0103.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0103.png)
