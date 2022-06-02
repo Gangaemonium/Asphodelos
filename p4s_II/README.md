@@ -144,6 +144,8 @@
 ![/p4s_II/images/0121.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0121.png)
 ## 가시의 비극: 제 2막 - 파이가 탱커 동선 (동서 예시)
 ![/p4s_II/images/0122.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0122.png)
+## 가시의 비극: 제 2막 - 힐러 동선 (동서 예시)
+![/p4s_II/images/0131.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0131.png)
 > 남북의 경우 이미지를 시계방향으로 90도 돌려서 보면 됩니다.
 ## 가시의 비극: 제 3막
 ![/p4s_II/images/0114.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0114.png)
