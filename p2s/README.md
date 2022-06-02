@@ -104,8 +104,10 @@
 ![/p2s/images/0025.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0025.png)
 ## 첫번째 전달되는 범람 (채널링 오버플로우) 처리
 ![/p2s/images/0036.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0036.png)
-## 캄페오스 할마 (주사위) 처리
+## 캄페오스 할마 (주사위) 처리 I
 ![/p2s/images/0037.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0037.png)
+## 캄페오스 할마 (주사위) 처리 II
+![/p2s/images/0023.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0023.png)
 ## 두번째 전달되는 범람 (채널링 오버플로우) 처리 I
 ![/p2s/images/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0035.png)
 > 탱커가 줄을 채 갈 수 있도록 모여 있는다.
