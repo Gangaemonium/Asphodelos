@@ -197,6 +197,8 @@
 > [근딜 배려식 (정규)](#변옥의-폭풍-정규-처리---누케마루)<br>
 > [남쪽 처리식 (정규)](#변옥의-폭풍-정규-처리---햄카츠이누마루)<br>
 > [남쪽 처리식 (정규) - D3 북쪽](#변옥의-폭풍-정규-처리---햄카츠이누마루-d3-북쪽-배치)
+#### 참고 영상
+https://youtu.be/JlpPGklQF0o
 ## 변옥의 암염선풍 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
 ## 폭풍 + 어둠의 겁화천초
