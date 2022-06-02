@@ -174,11 +174,12 @@
 ![/p3s/images/0021.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0021.png)
 ## 영혼샘의 불꽃 - 호보라라식 IV
 ![/p3s/images/0022.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0022.png)
+#### 참고 영상
+https://youtu.be/31_2BeHgSwQ?t=628
+
 > 공대에서 채용한 방법
 >
 > 해피아저(ハピおじ)식과 비교했을 때 자리가 고정된 처리법이므로<br>외곽을 돌고있는 힐러를 향해 새를 발사하는게 아니라면 훨씬 처리하기 쉽다.
-#### 참고 영상
-<a href="https://youtu.be/31_2BeHgSwQ" target="_blank">https://youtu.be/31_2BeHgSwQ</a>
 
 ## 변옥의 폭풍 I 산개 처리
 ![/p3s/images/p3s_soa.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/p3s_soa.gif)
@@ -186,6 +187,9 @@
 ![/p3s/images/p3s_soa2.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/p3s_soa2.gif)
 ## 변옥의 폭풍 무적 처리 - 탱커 최대 활용
 ![/p3s/images/0016.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0016.png)
+#### 참고 영상
+https://youtu.be/31_2BeHgSwQ?t=888
+
 > 공대에서 채용한 방법
 >
 > 파티원 전원이 모이게 되므로 탱커 이외에 자신이 처리할 기믹을 별도로 숙지하지 않아도 되는 장점이 있다.<br>다만, 정규 처리 방법도 숙지하는 것이 좋다.<br>해당 방법을 사용하려면 쫄 페이즈에 무적기를 쓸 수 없으므로, 힐러의 의견을 우선으로 조율하는 것을 추천
@@ -197,8 +201,6 @@
 > [근딜 배려식 (정규)](#변옥의-폭풍-정규-처리---누케마루)<br>
 > [남쪽 처리식 (정규)](#변옥의-폭풍-정규-처리---햄카츠이누마루)<br>
 > [남쪽 처리식 (정규) - D3 북쪽](#변옥의-폭풍-정규-처리---햄카츠이누마루-d3-북쪽-배치)
-#### 참고 영상
-<a href="https://youtu.be/31_2BeHgSwQ" target="_blank">https://youtu.be/31_2BeHgSwQ</a>
 
 ## 변옥의 암염선풍 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
