@@ -132,6 +132,11 @@
 ![/p4s_I/images/0100.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0100.png)
 ## 이동 공격 (망토)
 ![/p4s_I/images/0101.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0101.png)
+## 마법검 벨로네: 폭발 처리 GUMI (뇌사식)
+![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
+> 다른 방식:<br>
+> [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)<br>
+> [동선 고정식 - 동시 폭발](#마법검-벨로네-폭발-처리-동선-고정---동시-폭발)
 ## 마법검 벨로네: 원형 처리 - 공대식 (딜러 금지 기둥)
 ![/p4s_I/images/0009.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0009.png)
 ![/p4s_I/images/p4s1_tower_dps_anim.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/p4s1_tower_dps_anim.gif)
@@ -139,11 +144,6 @@
 ![/p4s_I/images/0010.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0010.png)
 ![/p4s_I/images/p4s1_tower_th_anim.gif](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/p4s1_tower_th_anim.gif)
 > 다른 방식: [북쪽 일자 처리](#마법검-벨로네-원형-처리---일자식)
-## 마법검 벨로네: 폭발 처리 GUMI (뇌사식)
-![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
-> 다른 방식:<br>
-> [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)<br>
-> [동선 고정식 - 동시 폭발](#마법검-벨로네-폭발-처리-동선-고정---동시-폭발)
 # YPP식
 ## 전염 처리 (YPP식) 서로 다른 조 I
 ![/p4s_I/images/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0059.png)
