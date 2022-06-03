@@ -166,6 +166,9 @@ https://youtu.be/JlpPGklQF0o
 ![/p4s_I/images/0103.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0103.png)
 ## 마법검 벨로네: 원형 처리 - 일자식 (딜러 금지 기둥)
 ![/p4s_I/images/0104.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0104.png)
+#### 참고 영상
+https://youtu.be/JlpPGklQF0o
+
 # 그 외
 ## 마법검 벨로네: 폭발 처리 (동선 고정)
 ![/p4s_I/images/0127.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0127.png)
