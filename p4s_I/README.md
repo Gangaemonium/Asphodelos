@@ -141,7 +141,9 @@
 > 다른 방식: [북쪽 일자 처리](#마법검-벨로네-원형-처리---일자식)
 ## 마법검 벨로네: 폭발 처리 GUMI (뇌사식)
 ![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
-> 다른 방식: [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)
+> 다른 방식:<br>
+> [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)<br>
+> [동선 고정식 - 동시 폭발](#마법검-벨로네-폭발-처리-동선-고정---동시-폭발)
 # YPP식
 ## 전염 처리 (YPP식) 서로 다른 조 I
 ![/p4s_I/images/0059.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0059.png)
