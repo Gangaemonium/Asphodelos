@@ -166,3 +166,6 @@ https://youtu.be/JlpPGklQF0o
 # 그 외
 ## 마법검 벨로네: 폭발 처리 (동선 고정)
 ![/p4s_I/images/0127.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0127.png)
+## 마법검 벨로네: 폭발 처리 (동선 고정 - 동시 폭발)
+![/p4s_I/images/0138.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0138.png)
+> 초기에 사용 시 대미지 경감 관련 조율이 필수적이므로 구성이 고정되지 않는 공팟보다 공대 사용을 추천
