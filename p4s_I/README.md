@@ -134,6 +134,7 @@
 ![/p4s_I/images/0101.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0101.png)
 ## 마법검 벨로네: 폭발 처리 GUMI (뇌사식)
 ![/p4s_I/images/0078.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0078.png)
+- 실제로는 이미지보다 안쪽 (보스 서클 근처) 에서 줄을 받음
 > 다른 방식:<br>
 > [동선 고정식](#마법검-벨로네-폭발-처리-동선-고정)<br>
 > [동선 고정식 - 동시 폭발](#마법검-벨로네-폭발-처리-동선-고정---동시-폭발)
@@ -168,6 +169,8 @@ https://youtu.be/JlpPGklQF0o
 # 그 외
 ## 마법검 벨로네: 폭발 처리 (동선 고정)
 ![/p4s_I/images/0127.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0127.png)
+- 실제로는 이미지보다 안쪽 (보스 서클 근처) 에서 줄을 받음
 ## 마법검 벨로네: 폭발 처리 (동선 고정 - 동시 폭발)
 ![/p4s_I/images/0138.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0138.png)
+- 실제로는 이미지보다 안쪽 (보스 서클 근처) 에서 줄을 받음
 > 초기에 사용 시 대미지 경감 관련 조율이 필수적이므로 구성이 고정되지 않는 공팟보다 공대 사용을 추천
