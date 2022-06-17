@@ -135,7 +135,7 @@
 ![/p4s_II/images/0106.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0106.png)
 ## 가시의 비극: 제 2막 - 남북 시작
 ![/p4s_II/images/0107.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0107.png)
-## 가시의 비극: 제 2막 - 처리 (동서 예시)
+## 가시의 비극: 제 2막 - 이딜식 처리 (동서 예시)
 ![/p4s_II/images/0118.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0118.png)
 ![/p4s_II/images/0119.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0119.png)
 ## 가시의 비극: 제 2막 - 에어로가 동선 (동서 예시)
