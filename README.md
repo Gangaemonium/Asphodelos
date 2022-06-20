@@ -31,14 +31,9 @@
 --------
 
 #### 📦 Other
-
-<details>
-    <summary>ETC</summary>
-    자료 갱신 시의 알림 불가능 및 오류정정이 적용되지 않기 때문에<br>
-    다운로드보다 북마크 해주시면 감사하겠습니다.
-</details>
+- 자료 갱신 시의 알림 불가능 및 오류정정이 적용되지 않기 때문에<br>다운로드보다 북마크 해주시면 감사하겠습니다.
 - 기타 공략
-    - 09STOP 공략정리 https://docs.google.com/spreadsheets/d/1Eax3074eOQNyvgAlkxpA9oFfjetI918c1D8bJhQniU8/edit#gid=309539289
+    - [09STOP 공략정리](https://docs.google.com/spreadsheets/d/1Eax3074eOQNyvgAlkxpA9oFfjetI918c1D8bJhQniU8/edit#gid=309539289)
 
 --------
 
