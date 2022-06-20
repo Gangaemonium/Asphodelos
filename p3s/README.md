@@ -73,7 +73,7 @@
     - 양염조 페이즈에 등장하는 일정 시간마다 오는 약한 광딜
 - 반혼의 불꽃
     - 죽은 양염조가 부활, 주변에 다른 양염조의 시체가 있을 경우 해당 양염조가 강화된 상태로 부활하여 사실상 전멸
-- 연속 강습활공
+- 연속 강습 활공
     - 양염조-사람-사람 형태로 줄이 연결되고, 양염조가 직접 연결된 사람에게 돌진한 후에 다음으로 연결된 사람에게 돌진함 (돌진 거리가 멀수록 데미지를 적게 받음)
     - 양염조와 직접 연결된 사람은 양염조의 반대편으로 이동
     - 양염조와 직접 연결되지 않은 사람은 양염조 쪽에서 대기
@@ -92,17 +92,17 @@
     - 어둠 구슬이 작은 구슬 여러 개일 경우 전원 개인 범위 공격
     - 전원 중앙에서 대기하다 12시와 가까운 첫 번째 장판과 두 번째 장판 사이로 이동하여 불 구슬 회피 후 어둠 구슬의 형태에 따라 쉐어 또는 산개 처리
     - 어둠 구슬 쉐어 기준이 탱커 1명 힐러 1명이므로 근거리조와 원거리조로 나뉘어서 기믹 처리
-- 영혼샘의 불꽃
+- 영검의 불꽃
     - 운동회 기믹
     - 힐러는 필드 외곽에 시계 방향으로 2개씩 4번 나타나는 장판을 밟으며 생기는 회복력 효과 향상 버프를 받고 파티의 체력 복구
     - 탱커/딜러는 2명씩 3번, 보스와 가장 가까운 사람에게 유도되는 개인징을 한번씩 받으며 다른 파티원과 겹치지 않게 맞은 후 그 자리에 소환된 작은 새의 돌진을 처리하기 위해 반대편으로 이동
-- 변옥의 염람
+- 변옥의 화염 폭풍
     - 아주 아픈 광역 공격, 외생기 조율 필요
     - 필드 외곽에 회오리 3개 소환 (북쪽, 남동쪽, 남서쪽)
 - 변옥의 불꽃
     - 보스 기준 양방향 60º 부채꼴 범위 공격 3회
     - 세번째 장판 위치에서 대기하다 첫번째 장판으로 이동
-- 마력 연성: 어둠의 겁화천초
+- 마력 연성: 암흑의 겁화천초
     - 시전이 끝나고 나타나는 어둠 구슬의 형태에 따라 2가지의 패턴이 존재함
     - 어둠 구슬이 큰 구슬 한 개일 경우 탱커/힐러 각 1명 기준 쉐어 공격
     - 어둠 구슬이 작은 구슬 여러 개일 경우 전원 개인 범위 공격
@@ -113,12 +113,12 @@
     - 줄에 연결된 대상자 둘에게 좁은 범위 강공격 (탱커가 처리)
     - 보스와 가까운 3명에게 60º 부채꼴 범위 공격 (유격대를 제외한 나머지 딜러 셋이 처리)
     - 회오리와 가까운 3명에게 60º 부채꼴 범위 공격 (유격대와 힐러 둘이 처리)
-- 변옥의 암염선풍 + 열 분사 + 마력 연성: 어둠의 겁화천초
+- 변옥의 암염선풍 + 열 분사 + 마력 연성: 암흑의 겁화천초
     - 운동회 기믹
     - 회오리 하나에게 검은색 선이 연결되며(일정 시간 후에 회오리 기준 넉백) 나머지 둘에게는 붉은색 선이 연결됨(일정 시간 후에 회오리 기준 도넛형 범위 공격)
     - 전원 검은색 선이 연결된 회오리 쪽에 모여 열 분사를 처리하며 보스 주변 한 바퀴 돌기
     - 근거리조는 검은색 선 회오리 왼쪽에, 원거리조는 오른쪽에 모여서 회오리 기준 넉백
-    - 붉은색 선이 연결된 회오리와 가깝게 넉백되어 도넛형 범위 공격을 피한 후 마력 연성: 어둠의 겁화천초의 어둠 구슬의 형태에 따라 쉐어 또는 산개 처리
+    - 붉은색 선이 연결된 회오리와 가깝게 넉백되어 도넛형 범위 공격을 피한 후 마력 연성: 암흑의 겁화천초의 어둠 구슬의 형태에 따라 쉐어 또는 산개 처리
 - 죽음의 운명
     - 전원에게 죽음의 운명 디버프 부여 (1/2/4스택 무작위)
     - 죽을 데미지를 받을 때마다 체력을 1 남기고 디버프 1스택을 소모함
@@ -162,17 +162,17 @@
 ## 어둠의 겁화천초 (작은 구슬+큰 구슬) 처리
 ![/p3s/images/0086.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0086.png)
 > 적당히 안전지대에 도착했다면 쉐어 처리를 위해 멈춘다
-## 영혼샘의 불꽃 처리 (힐러 동선)
+## 영검의 불꽃 처리 (힐러 동선)
 ![/p3s/images/0046.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0046.png)
-## 영혼샘의 불꽃 처리 (힐러 위치)
+## 영검의 불꽃 처리 (힐러 위치)
 ![/p3s/images/0047.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0047.png)
-## 영혼샘의 불꽃 - 호보라라식 I
+## 영검의 불꽃 - 호보라라식 I
 ![/p3s/images/0019.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0019.png)
-## 영혼샘의 불꽃 - 호보라라식 II
+## 영검의 불꽃 - 호보라라식 II
 ![/p3s/images/0020.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0020.png)
-## 영혼샘의 불꽃 - 호보라라식 III
+## 영검의 불꽃 - 호보라라식 III
 ![/p3s/images/0021.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0021.png)
-## 영혼샘의 불꽃 - 호보라라식 IV
+## 영검의 불꽃 - 호보라라식 IV
 ![/p3s/images/0022.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0022.png)
 #### 참고 영상
 https://youtu.be/31_2BeHgSwQ?t=628
@@ -224,13 +224,13 @@ https://youtu.be/31_2BeHgSwQ?t=888
 ## 돌진 산개도 - 쉐어
 ![/p3s/images/0013.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0013.png)
 
-## 영혼샘의 불꽃 - 해피아저식 I
+## 영검의 불꽃 - 해피아저식 I
 ![/p3s/images/0072.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0072.png)
-## 영혼샘의 불꽃 - 해피아저식 II
+## 영검의 불꽃 - 해피아저식 II
 ![/p3s/images/0073.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0073.png)
-## 영혼샘의 불꽃 - 해피아저식 III
+## 영검의 불꽃 - 해피아저식 III
 ![/p3s/images/0074.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0074.png)
-## 영혼샘의 불꽃 - 해피아저식 IV
+## 영검의 불꽃 - 해피아저식 IV
 ![/p3s/images/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0075.png)
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 
