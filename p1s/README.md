@@ -61,7 +61,7 @@
     - 보스가 징벌격 공격을 둘 다 실행할 때까지 안전지대에서 대기
 - 감옥 폐쇄
     - 아픈 마법 광역 공격과 함께 맵 변환
-- 변옥 이송
+- 변옥 수감
     - 전멸기
 
 ## 기본 산개
@@ -75,9 +75,9 @@
 ## 징벌격 범위 (안전지대 외부)
 ![/p1s/images/0071.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0071.png)
 > 공격은 보스 기준이므로 탱커의 주차가 중요
-## 결주의 사슬 처리
+## 결박 사슬 처리
 ![/p1s/images/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0029.png)
-## 결주의 사연 사슬 처리
+## 4연속 결박 사슬 처리
 ![/p1s/images/0031.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0031.png)
 ## 징벌 연격: 화염
 ![/p1s/images/0032.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0032.png)
@@ -97,5 +97,5 @@
 ![/p1s/images/0040.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0040.png)
 ## 시한부 사슬
 ![/p1s/images/0039.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0039.png)
-## 광염 감옥 + 결주의 사슬
+## 광염 감옥 + 결박 사슬
 ![/p1s/images/0041.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0041.png)
