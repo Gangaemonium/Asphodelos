@@ -77,6 +77,8 @@
 > 공격은 보스 기준이므로 탱커의 주차가 중요
 ## 결박 사슬 처리
 ![/p1s/images/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0029.png)
+## 결박 사슬 범위
+![/p1s/images/0002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0002.png)
 ## 4연속 결박 사슬 처리
 ![/p1s/images/0031.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0031.png)
 ## 징벌 연격: 화염
