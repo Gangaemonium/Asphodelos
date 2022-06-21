@@ -57,7 +57,7 @@
 |7:16|J: 辺獄の炎<br>E: Flames of Asphodelos<br>한: 변옥의 불꽃|60˚ 부채꼴 2개씩 3번 공격|
 |7:21|J: 炎の雨<br>E: Blazing Rain<br>한: 불비|8초마다 약한 광딜|
 |7:23|J: 魔力錬成：暗闇の劫火天焦<br>E: Experimental Ashplume<br>한: 마력 연성: 암흑의 겁화천초|4/4 쉐어 or 전원 개인장판|
-|7:29|J: 暗闇の劫火天焦<br>E: Ashplume<br>한: 어둠의 겁화천초|4/4 쉐어 or 전원 개인장판 피격
+|7:29|J: 暗闇の劫火天焦<br>E: Ashplume<br>한: 암흑의 겁화천초|4/4 쉐어 or 전원 개인장판 피격
 |7:34|J: 辺獄の炎<br>E: Flames of Asphodelos<br>한: 변옥의 불꽃|60˚ 부채꼴 2개씩 3번 공격|
 |7:52|J: 辺獄の嵐<br>E: Storms of Asphodelos<br>한: 변옥의 폭풍|줄 연결된 대상자 탱버 +<br>보스와 가까운 3명에게 부채꼴 공격 +<br>각  회오리와 가까운 1명에게 부채꼴 공격|
 |7:59|J: 辺獄の闇炎旋風<br>E: Darkblaze Twister<br>한: 변옥의 암염선풍|회오리 1개에 검은색 선 연결 (이후에 암선풍 시전)<br>회오리 2개에 붉은색 선 연결 (이후에 염선풍 시전)|
@@ -65,7 +65,7 @@
 |8:14|J: 魔力錬成：暗闇の劫火天焦<br>E: Experimental Ashplume<br>한: 마력 연성: 암흑의 겁화천초|4/4 쉐어 or 전원 개인장판|
 |8:17|J: 闇旋風<br>E: Dark Twister<br>한: 암선풍|검은색 선이 연결된 회오리 기준 넉백|
 |8:19|J: 炎旋風<br>E: Burning Twister<br>한: 염선풍|붉은색 선이 연결된 회오리 기준 다이나모|
-|8:22|J: 暗闇の劫火天焦<br>E: Ashplume<br>한: 어둠의 겁화천초|4/4 쉐어 or 전원 개인장판 피격|
+|8:22|J: 暗闇の劫火天焦<br>E: Ashplume<br>한: 암흑의 겁화천초|4/4 쉐어 or 전원 개인장판 피격|
 |8:29|J: 灰燼の炎<br>E: Scorched Exaltation<br>한: 잿더미 화염|광딜|
 |8:42|J: 死の運命<br>E: Death's Toll<br>한: 죽음의 운명|전원 1/2/4스택 디버프 부여|
 |8:50|J: 群鳥飛翔<br>E: Fledgling Flight<br>한: 새떼 비상|랜덤 4명이 부채꼴 장판 유도|

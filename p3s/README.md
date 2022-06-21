@@ -156,10 +156,10 @@
 > 줄이 2개 연결된 대상자는 1회 돌진 후 살짝 뒤로 빠져야 한다<br>옆으로 빠져도 되나 뒤로 빠지는 것이 효율적이다.
 ## 새떼 비상 처리
 ![/p3s/images/0076.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0076.png)
-## 암흑의 겁화천초(작은 구슬+작은 구슬) 처리
+## 암흑의 겁화천초 (작은 구슬+작은 구슬) 처리
 ![/p3s/images/0087.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0087.png)
 > 개인 장판이 착탄하기까지 충분히 여유가 있으므로 적정 거리만큼 산개할 것
-## 암흑의 겁화천초(작은 구슬+큰 구슬) 처리
+## 암흑의 겁화천초 (작은 구슬+큰 구슬) 처리
 ![/p3s/images/0086.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0086.png)
 > 적당히 안전지대에 도착했다면 쉐어 처리를 위해 멈춘다
 ## 영검의 불꽃 처리 (힐러 동선)
@@ -204,18 +204,18 @@ https://youtu.be/31_2BeHgSwQ?t=888
 
 ## 변옥의 어둠불꽃 회오리 처리
 ![/p3s/images/0067.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0067.png)
-## 폭풍 + 어둠의 겁화천초
+## 폭풍 + 암흑의 겁화천초
 ![/p3s/images/0068.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0068.png)
-## 폭풍 암흑의 겁화천초이후 산개 (탱원/힐근 구성)
+## 폭풍 암흑의 겁화천초 이후 산개 (탱원/힐근 구성)
 ![/p3s/images/0007.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0007.png)
 ## 죽음의 운명 + 새떼 비상 처리
 ![/p3s/images/0077.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0077.png)
-## 암흑의 겁화천초(큰 구슬+작은 구슬) 처리
+## 암흑의 겁화천초 (큰 구슬+작은 구슬) 처리
 ![/p3s/images/0088.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0088.png)
 > 한대 더 치려다가 사고 나므로 안전하게 처리
 >
 > 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
-## 암흑의 겁화천초(큰 구슬+큰 구슬) 처리
+## 암흑의 겁화천초 (큰 구슬+큰 구슬) 처리
 ![/p3s/images/0089.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0089.png)
 > 시전을 시작하면 중앙에 모였다가<br>이펙트를 보자마자 A/C 방향으로 먼저 나뉠것, 그 후 어둠 구슬을 보고 쉐어/산개를 처리한다.
 
@@ -234,7 +234,7 @@ https://youtu.be/31_2BeHgSwQ?t=888
 ![/p3s/images/0075.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0075.png)
 > 이후 나머지 근딜,원딜조도 동일하게 처리<br>힐러 장판 앞에서 순서대로 대기한 후 처리하면 된다.
 
-## 폭풍 암흑의 겁화천초이후 산개 (탱근/힐원 구성)
+## 폭풍 암흑의 겁화천초 이후 산개 (탱근/힐원 구성)
 ![/p3s/images/0005.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p3s/images/0005.png)
 
 ## 변옥의 폭풍 무적 처리 - tuufless
