@@ -111,7 +111,9 @@
 ![/p2s/images/0023.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0023.png)
 ## 바다괴물 전차 (주사위) 처리 - 징 숫자 고정
 ![/p2s/images/0143.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0143.png)
-> 참고: 동선이 매우 길기 때문에 숫자 마커에 서는것으로 약속이 되어 있는 경우, 보스와 가장 먼 곳에 가야 하는 보라색 주사위는 위험 지역과 마주보는 플랫폼 가장 바깥에서도 처리할 수 있다. 위치는 [바다괴물 전차](#바다괴물-전차-주사위-처리-I) 를 참고할 것. 상기한 것 처럼 처리할 경우 위 이미지에서는 3번 보라색 주사위가 B 마커 위에 서게 된다.
+> 참고: 동선이 매우 길기 때문에 숫자 마커에 서는것으로 약속이 되어 있는 경우, 보스와 가장 먼 곳에 가야 하는 보라색 주사위는 위험 지역과 마주보는 플랫폼 가장 바깥에서도 처리할 수 있다. 위치는 [바다괴물 전차](#바다괴물-전차-주사위-처리-I) 를 참고할 것.
+> 
+> 상기한 것 처럼 처리할 경우 위 이미지에서는 3번 보라색 주사위가 B 마커 위에 서게 된다.
 ## 두번째 방향성 급류 (채널링 오버플로우) 처리 I
 ![/p2s/images/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0035.png)
 > 탱커가 줄을 채 갈 수 있도록 모여 있는다.
