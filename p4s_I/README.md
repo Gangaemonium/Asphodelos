@@ -116,7 +116,8 @@
 ![/p4s_I/images/0095.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0095.png)
 > 같은 조에 모두 걸린 경우는 YPP식과 동일하게 처리하나 다른 조일 경우 동선을 최소화하는 방식이다.
 >
-> 모이는 지점은 반대일 경우에도 동일하게 3번에서 처리하면 된다.
+> 전염조 (2번째 줄) 기준으로 모여서 처리하면 된다.<br>
+> 탱힐조일 경우 1번, 딜러조일 경우 3번 마커에서 처리. 전염이 끝난 것을 확인하면 마커에 있던 조가 보스 서클 안쪽으로 이동하며 줄을 받아 처리하면 된다.
 ## 극장창조 개요
 ![/p4s_I/images/0062.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_I/images/0062.png)
 > 속성 무대 위치는 랜덤이며, 각 속성은 번개 + 독/용암 또는 물기둥 + 독/용암 그룹으로 활성화된다.
