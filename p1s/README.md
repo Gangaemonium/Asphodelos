@@ -79,6 +79,8 @@
 ![/p1s/images/0029.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0029.png)
 ## 결박 사슬 범위
 ![/p1s/images/0002.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0002.png)
+## 결박 사슬 범위 (마커 내부 X 안치)
+![/p1s/images/0003.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0003.png)
 > 징의 가운데에 섰을 때 기준이므로 원거리 사슬 대상자의 경우 숫자징 모서리까지 이동해도 ok
 ## 4연속 결박 사슬 처리
 ![/p1s/images/0031.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p1s/images/0031.png)
