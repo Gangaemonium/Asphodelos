@@ -109,6 +109,8 @@
 ![/p2s/images/0037.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0037.png)
 ## 바다괴물 전차 (주사위) 처리 II
 ![/p2s/images/0023.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0023.png)
+## 바다괴물 전차 (주사위) 처리 - 징 숫자 고정
+![/p2s/images/0143.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0143.png)
 ## 두번째 방향성 급류 (채널링 오버플로우) 처리 I
 ![/p2s/images/0035.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0035.png)
 > 탱커가 줄을 채 갈 수 있도록 모여 있는다.
