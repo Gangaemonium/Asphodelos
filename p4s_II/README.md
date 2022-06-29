@@ -159,7 +159,7 @@
 ![/p4s_II/images/0011.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0011.png)
 > 힐러는 중앙까지 전력질주로 달려간 다음 넉백으로 기둥까지 이동할 수 있음.
 >
-> [Xenosys](#가시의-비극-제-3막---제노) 의 공략법은 서로의 움직임을 줄이는 방식이나 근거리 직업군에게 미묘한 공백이 발생함<br>따라서 필요에 따라 조율하여 사용
+> [Xenosys의 공략법](#act3-xenosys)은 서로의 움직임을 줄이는 방식이나 근거리 직업군에게 미묘한 공백이 발생함<br>따라서 필요에 따라 조율하여 사용
 ## 가시의 비극: 제 4막
 ![/p4s_II/images/0123.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0123.png)
 ## 가시의 비극: 제 4막 - 다쟈 처리
@@ -175,6 +175,7 @@
 ## 근딜 칼끝딜 안전지대
 ![/p4s_II/images/0130.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0130.png)
 # 가시의 비극: 제 3막 처리
+<a name="act3-xenosys"></a>
 ## Xenosys 처리법
 ![/p4s_II/images/0115.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0115.png)
 ![/p4s_II/images/0116.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p4s_II/images/0116.png)
