@@ -123,6 +123,7 @@
 ## 두번째 방향성 급류 (채널링 오버플로우) 처리 III
 ![/p2s/images/0034.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0034.png)
 > 13초 넉백 인원은 본진으로 다시 모여 쉐어 대미지를 처리,<br>그 뒤 27초 인원은 넉백을 처리한다<br>탱커 리밋을 사용해서 처리해도 되나 탱커의 숙련이 필요하므로 정규 처리 방법을 익혀두자
+> 
 > 탱리밋 사용 시 13초 탱커가 넉백 직전 리밋을 사용
 ## 머리 분리
 ![/p2s/images/0053.png](https://raw.githubusercontent.com/Gangaemonium/Asphodelos/main/p2s/images/0053.png)
